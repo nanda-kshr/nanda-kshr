@@ -7,7 +7,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-nandakishore-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/nandakishore-p-44a743151/)
 [![Medium Badge](https://img.shields.io/badge/-@nandakishorep-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@nandakishorep)
-[![Website Badge](https://img.shields.io/badge/-wellhacks-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://wellhacks.epizy.com)](http://http://wellhacks.epizy.com)
+[![Website Badge](https://img.shields.io/badge/-wellhacks-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://wellhacks.epizy.com)](http://wellhacks.epizy.com)
 [![Instagram Badge](https://img.shields.io/badge/-@nanda.kshr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/nanda.kshr)
 [![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nandakishorep212@gmail.com)
 
