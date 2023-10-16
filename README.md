@@ -1,7 +1,7 @@
 
 <img src="https://github.com/Evil-Beast/Evil-Beast/blob/master/images/helloworld%20(20231016100538).png?raw=true">
 
-<h2>Skills</h2><br><hr><br>
+<h2>Skills</h2><br><hr><br><p>
 <img alt="skillimg" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img alt="skillimg" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="skillimg" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
@@ -15,5 +15,5 @@
 <img alt="skillimg" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="skillimg" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img alt="skillimg" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img alt="skillimg" src="">
+<img alt="skillimg" src=""></p>
 <img alt="skillimg" src="">
