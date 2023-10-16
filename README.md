@@ -15,5 +15,14 @@
 <img alt="skillimg" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="skillimg" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img alt="skillimg" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img alt="skillimg" src=""></p>
 <img alt="skillimg" src="">
+<img alt="skillimg" src="">
+</p>
+
+<br>
+## 🏆 GitHub Trophies
+
+ <div style="display: flex; justify-content: center;">
+   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Evil-Beast&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4"alt="GitHub Trophies" /></p>
+    <p align="center>"<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="GitHub Quotes" /></p>
+ </div>
