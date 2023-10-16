@@ -1,6 +1,11 @@
 
 <img src="https://github.com/Evil-Beast/Evil-Beast/blob/master/images/helloworld%20(20231016100538).png?raw=true">
 
+<h1>About Me🧩</h1>
+
+<p>Welcome To My Page, I am a Student from India. Addicted to Programming. LaZy.</p><br><p>Forgive me! My Keyboard is broken thats why I stopped writing about me.</p>
+
+<hr>
 <h2>Got my Hands on 🫳</h2><br><hr><br><p align="center">
 <img alt="skillimg" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 <img alt="skillimg" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
