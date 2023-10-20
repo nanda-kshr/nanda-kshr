@@ -3,7 +3,7 @@
 
 <h1>About Me🧩</h1>
 
-<p>Welcome To My Page, I am a Student from India. Addicted to Programming. LaZy.</p><br><p>Forgive me! My Keyboard is broken thats why I stopping here.</p>
+<p>Welcome To My Page, I am a Student from India. Addicted to Programming. LaZy.</p><br><p>Forgive me! My Keyboard is broken thats why I am stopping here.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-nandakishore-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/nandakishore-p-44a743151/)
 [![Medium Badge](https://img.shields.io/badge/-@nandakishorep-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@nandakishorep)
