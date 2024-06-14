@@ -12,6 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nandakishorep212@gmail.com)
 
 
+ ![Snake animation](https://github.com/nanda-kshr/nanda-kshr/blob/output/github-contribution-grid-snake.svg)
 <hr>
 <h2>Got my Hands on 🫳</h2><br><hr><br><p align="center">
 <img alt="skillimg" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
@@ -42,5 +43,4 @@
 
  <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Beast&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="300" height="150" /></p>
- [![Snake animation](https://github.com/nanda-kshr/nanda-kshr/blob/output/github-contribution-grid-snake.svg)
   
