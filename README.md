@@ -10,7 +10,7 @@
 [![Website Badge](https://img.shields.io/badge/-wellhacks-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://wellhacks.epizy.com)](http://wellhacks.epizy.com)
 [![Instagram Badge](https://img.shields.io/badge/-@nanda.kshr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/nanda.kshr)
 [![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nandakishorep212@gmail.com)
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
 <hr>
