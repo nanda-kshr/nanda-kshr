@@ -37,10 +37,10 @@
 <h1>🏆 GitHub Trophies</h1> 
 
  <div style="display: flex; justify-content: center;">
-   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Evil-Beast&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4"alt="GitHub Trophies" /></p>
+   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nanda-kshr&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4"alt="GitHub Trophies" /></p>
     <p align="center>"<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="GitHub Quotes" /></p>
  </div>
 
  <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evil-Beast&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="300" height="150" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-kshr&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="300" height="150" /></p>
   
