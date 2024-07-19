@@ -40,6 +40,6 @@
  </div>
 
  <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-kshr&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="300" height="150" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-kshr&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="200" height="100" /></p>
   
 [![Nandakishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanda-kshr)](https://github.com/anuraghazra/github-readme-stats)
