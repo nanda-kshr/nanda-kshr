@@ -39,7 +39,7 @@
     <p align="center>"<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="GitHub Quotes" /></p>
  </div>
 
- <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-kshr&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="300" height="150" /></p>
-  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nanda-kshr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanda-ksh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
