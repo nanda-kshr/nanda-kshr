@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Evil-Beast/Evil-Beast/blob/cdb44bdf00a3be54de5172948a90a46202c20fb3/images/helloworld%20(20231016100538).png">
+<img src="https://github.com/nanda-kshr/nanda-kshr/blob/5db12d6ef761ea568653b1a1dbab95a8d99a819c/images/githubbanner.png">
 
 <h1>About Me</h1>
 
