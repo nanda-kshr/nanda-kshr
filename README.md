@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nandakishorep212@gmail.com)
 
 <h2>Got my Hands on 🫳</h2><br><br>
-
+<p align=”center”>
  📝 Blog
  
 <img alt="skillimg" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
@@ -146,7 +146,7 @@
  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-
+</p>
 
 <br>
 <h1>🏆 GitHub Trophies</h1> 
