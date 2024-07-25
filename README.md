@@ -14,8 +14,8 @@
 <h2>Got my Hands on 🫳</h2><br><br>
 <p align=”center”>📝 Blog<br>
  
-<img alt="skillimg" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
-  💾 Databases
+<img alt="skillimg" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><br>
+  💾 Databases<br>
   
  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"  />
  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
