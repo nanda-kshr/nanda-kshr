@@ -1,5 +1,5 @@
 
-<img src="https://github.com/nanda-kshr/nanda-kshr/blob/5db12d6ef761ea568653b1a1dbab95a8d99a819c/images/githubbanner.png">
+<img src="https://github.com/nanda-kshr/nanda-kshr/blob/9bab406a1e583e6ce19570e6c010fbb4c318f872/images/githubbannerr.png">
 
 <h1>About Me</h1>
 
