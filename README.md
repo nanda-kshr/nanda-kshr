@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nandakishorep212@gmail.com)
 
 <h2>Got my Hands on 🫳</h2><br><br>
-h2>📋 Languages</h2>
+<h2>📋 Languages</h2>
 <p align=”center”>
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -96,7 +96,7 @@ h2>📋 Languages</h2>
  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" />
  <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />
  </p>
- <
+ 
 <h2>🖥️ ML/DL</h2>
 <p align=”center”>
  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
