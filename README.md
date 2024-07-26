@@ -1,4 +1,11 @@
-<img src="https://github.com/nanda-kshr/nanda-kshr/blob/156b33c546a63eb0fa4250537783663b01c0f313/images/github_banner.png">
+<head>
+<style>
+ p{
+  margin:0px;
+  }
+</style>
+ </head>
+ <img src="https://github.com/nanda-kshr/nanda-kshr/blob/156b33c546a63eb0fa4250537783663b01c0f313/images/github_banner.png">
 
 # About Me
 
