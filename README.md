@@ -1,11 +1,11 @@
-
 <img src="https://github.com/nanda-kshr/nanda-kshr/blob/156b33c546a63eb0fa4250537783663b01c0f313/images/github_banner.png">
 
-<h1>About Me</h1>
+# About Me
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<p>Welcome To My Page, I am a Student from India. Addicted to Programming. </p><br><p>Forgive me! My Keyboard is broken thats why I am stopping here.</p>
+Welcome To My Page, I am a Student from India. Addicted to Programming. </p><br><p>Forgive me! My Keyboard is broken thats why I am stopping here.
 
 [![Linkedin Badge](https://img.shields.io/badge/-nandakishore-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/nandakishore-p-44a743151/)
 [![Medium Badge](https://img.shields.io/badge/-@nandakishorep-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@nandakishorep)
@@ -13,8 +13,13 @@
 [![Instagram Badge](https://img.shields.io/badge/-@nanda.kshr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/nanda.kshr)
 [![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nandakishorep212@gmail.com)
 
-<h1>Got my Hands on 🫳</h1>
-<h2>📋 Languages</h2>
+# Got my Hands on 🫳
+
+## 📋 Languages
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <p align=”center”>
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -29,7 +34,8 @@
  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
  </p>
- <h2>📚 Frameworks, Platforms and Libraries</h2>
+ 
+ ## 📚 Frameworks, Platforms and Libraries 
 <p align=”center”>
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
@@ -39,11 +45,13 @@
  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
  </p>
- <h2>📝 Blog</h2>
+ 
+ ## 📝 Blog
 <p align=”center”>
 <img alt="skillimg" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </p>
- <h2>💾 Databases</h2>
+
+ ## 💾 Databases
 <p align=”center”>
  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"  />
  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
@@ -53,7 +61,8 @@
  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
  </p>
- <h2>🎨 Design</h2>
+ 
+ ## 🎨 Design
 <p align=”center”>
  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
@@ -62,7 +71,8 @@
  <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" />
  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
  </p>
- <h2>🧑‍💻 Developer/Forums</h2>
+ 
+ ## 🧑‍💻 Developer/Forums
 <p align=”center”>
  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
@@ -70,7 +80,7 @@
  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
  </p>
  
-<h2>☁️ Hosting/SaaS</h2>
+ ## ☁️ Hosting/SaaS
 <p align=”center”>
  <img src="https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white"/>
  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -81,7 +91,7 @@
  <img src="https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white" />
  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
  </p>
- <h2>💻 IDEs/Editors</h2>
+ ## 💻 IDEs/Editors
 <p align=”center”>
  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
@@ -99,7 +109,7 @@
  <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />
  </p>
  
-<h2>🖥️ ML/DL</h2>
+## 🖥️ ML/DL
 <p align=”center”>
  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
@@ -110,7 +120,7 @@
  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
  </p>
- <h2>🎛️ Operating System</h2>
+ ## 🎛️ Operating System
 <p align=”center”>
  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
@@ -121,7 +131,8 @@
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
  </p>
- <h2>🥅 Other</h2>
+ 
+ ## 🥅 Other
 <p align=”center”>
  <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -133,26 +144,28 @@
  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi " />
  <img src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" />
  </p>
- <h2>🗄️ Servers</h2>
+ 
+ ## 🗄️ Servers
 <p align=”center”>
  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" />
  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
  </p>
- <h2>🧪 Testing</h2>
+ 
+ ## 🧪 Testing
 <p align=”center”>
  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
  </p>
- <h2>🕓 Version Control</h2>
+ 
+ ## 🕓 Version Control
 <p align=”center”>
  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<br>
-<h1>🏆 GitHub Trophies</h1> 
+# 🏆 GitHub Trophies
 
  <div style="display: flex; justify-content: center;">
    <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=nanda-kshr&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4"alt="GitHub Trophies" /></p>
@@ -160,6 +173,7 @@
  </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <!-- Copy-paste in your Readme.md file -->
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nanda-kshr&theme=dracula&hide_border=true&border_radius=30&card_width=1000&card_height=200&fire=EB0000&stroke=17EB1A&currStreakNum=F6FF0A&sideNums=EBE769&excludeDaysLabel=60EAEB&border=3EFF35" alt="GitHub Streak" /></a>
