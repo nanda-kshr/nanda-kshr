@@ -122,17 +122,13 @@
 
 <a href="https://github.com/nanda-kshr"><img src="https://github-readme-streak-stats.herokuapp.com?user=nanda-kshr&theme=dracula&hide_border=true&border_radius=30&card_width=1000&card_height=200&fire=EB0000&stroke=17EB1A&currStreakNum=F6FF0A&sideNums=EBE769&excludeDaysLabel=60EAEB&border=3EFF35" alt="GitHub Streak" /></a>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
  <div style="display: flex; justify-content: center;">
-   <a href="https://github.com/nanda-kshr" align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=nanda-kshr&show_icons=true&theme=dracula" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/nanda-kshr" align="right">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanda-kshr&layout=compact&langs_count=8&card_width=320&theme=dracula"/>
-</a>
+   <a href="https://github.com/nanda-kshr">
+     <img src="https://github-readme-stats.vercel.app/api?username=nanda-kshr&show_icons=true&theme=dracula" alt="GitHub Streak" />
+   </a>
+   <a href="https://github.com/nanda-kshr">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanda-kshr&layout=compact&langs_count=8&card_width=320&theme=dracula"/>
+   </a>
  </div>
 
 <br>
