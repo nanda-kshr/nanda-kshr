@@ -114,7 +114,9 @@ Welcome To My Page, I am a Student from India. Addicted to Programming. </p><br>
 
 
 # 🏆 GitHub Trophies
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
  <div style="display: flex; justify-content: center;">
    <img src="https://github-profile-trophy.vercel.app/?username=nanda-kshr&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4"alt="GitHub Trophies" />
    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="GitHub Quotes" />
