@@ -4,7 +4,7 @@
 ## **About me** <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> 
 <div style="display: flex; justify-content: center;">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+To+My+Page,;I+am+a+Student+from+India;Addicted+to+Programming;My+Keyboard+is+Broken,;So+I'll+Stop+Here+for+Now!+.alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+To+My+Page,;I+am+a+Student+from+India;Addicted+to+Programming;My+Keyboard+is+Broken,;So+I'll+Stop+Here+for+Now!" alt="Typing SVG">
   </a>
 </div>
 
