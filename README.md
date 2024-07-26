@@ -2,7 +2,9 @@
 <img src="https://github.com/nanda-kshr/nanda-kshr/blob/156b33c546a63eb0fa4250537783663b01c0f313/images/github_banner.png">
 
 <h1>About Me</h1>
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <p>Welcome To My Page, I am a Student from India. Addicted to Programming. </p><br><p>Forgive me! My Keyboard is broken thats why I am stopping here.</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-nandakishore-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/nandakishore-p-44a743151/)
