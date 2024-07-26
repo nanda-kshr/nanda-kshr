@@ -125,8 +125,10 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=nanda-kshr&show_icons=true&theme=dracula" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=nanda-kshr&show_icons=true&theme=dracula" alt="GitHub Streak" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanda-kshr&layout=compact&langs_count=8&card_width=320" />
+</a>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
