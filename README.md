@@ -3,7 +3,7 @@
 
 ## **About me** <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> 
 <div style="display: flex; justify-content: center;">
- <a href="https://git.io/typing-svg">
+ <a href="https://github.com/nanda-kshr">
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+To+My+Page,;I+am+a+Student+from+India;Addicted+to+Programming;My+Keyboard+is+Broken,;So+I'll+Stop+Here+for+Now!" alt="Typing SVG">
   </a>
 </div>
@@ -120,7 +120,7 @@
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> <b> Github Stats </b>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nanda-kshr&theme=dracula&hide_border=true&border_radius=30&card_width=1000&card_height=200&fire=EB0000&stroke=17EB1A&currStreakNum=F6FF0A&sideNums=EBE769&excludeDaysLabel=60EAEB&border=3EFF35" alt="GitHub Streak" /></a>
+<a href="https://github.com/nanda-kshr"><img src="https://github-readme-streak-stats.herokuapp.com?user=nanda-kshr&theme=dracula&hide_border=true&border_radius=30&card_width=1000&card_height=200&fire=EB0000&stroke=17EB1A&currStreakNum=F6FF0A&sideNums=EBE769&excludeDaysLabel=60EAEB&border=3EFF35" alt="GitHub Streak" /></a>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
