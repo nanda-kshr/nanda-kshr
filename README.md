@@ -160,7 +160,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <!-- Copy-paste in your Readme.md file -->
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=akhil2099&theme=dracula&hide_border=true&border_radius=30&card_width=1000&card_height=200&fire=EB0000&stroke=17EB1A&currStreakNum=F6FF0A&sideNums=EBE769&excludeDaysLabel=60EAEB&border=3EFF35" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nanda-kshr&theme=dracula&hide_border=true&border_radius=30&card_width=1000&card_height=200&fire=EB0000&stroke=17EB1A&currStreakNum=F6FF0A&sideNums=EBE769&excludeDaysLabel=60EAEB&border=3EFF35" alt="GitHub Streak" /></a>
 </p>
 
 <br>
