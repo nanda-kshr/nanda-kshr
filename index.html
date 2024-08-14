@@ -4,130 +4,80 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nandakishore's Portfolio</title>
-    <!-- Bootstrap CSS -->
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .banner {
+            width: 100%;
+            height: auto;
+        }
+        .skills-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+        }
+        .skill {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin: 15px;
+            padding: 20px;
+            width: 200px;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+        .skill:hover {
+            transform: translateY(-10px);
+        }
+        .skill img {
+            width: 50px;
+            height: 50px;
+        }
+    </style>
 </head>
 <body>
-    <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Nandakishore</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="#about">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#skills">Skills</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#projects">Projects</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#contact">Contact</a>
-                </li>
-            </ul>
+    <div class="banner">
+        <img src="https://nanda-kshr.github.io/nanda-kshr/images/github_banner.png" alt="Portfolio Banner" class="banner">
+    </div>
+    
+    <div class="skills-container">
+        <div class="skill">
+            <img src="link_to_icon1.png" alt="Skill 1">
+            <h3>Python</h3>
         </div>
-    </nav>
-
-    <!-- Hero Section -->
-    <header class="hero-section text-center text-white">
-        <div class="container">
-            <img src="https://nanda-kshr.github.io/nanda-kshr/images/github_banner.png" class="img-fluid" alt="Hero Image">
-            <h1 class="display-4">Hi, I'm Nandakishore</h1>
-            <p class="lead">A Passionate Developer from India</p>
-            <a href="#projects" class="btn btn-primary btn-lg">Check My Work</a>
+        <div class="skill">
+            <img src="link_to_icon2.png" alt="Skill 2">
+            <h3>JavaScript</h3>
         </div>
-    </header>
-
-    <!-- About Section -->
-    <section id="about" class="about-section py-5">
-        <div class="container text-center">
-            <h2 class="section-title">About Me</h2>
-            <p class="section-subtitle">A brief introduction about myself</p>
-            <p class="lead">I'm a student from India, addicted to programming, and constantly learning new technologies. I have a strong foundation in various programming languages and frameworks.</p>
-            <a href="https://github.com/nanda-kshr">
-                <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+To+My+Page,;I+am+a+Student+from+India;Addicted+to+Programming;My+Keyboard+is+Broken,;So+I'll+Stop+Here+for+Now!" alt="Typing SVG">
-            </a>
+        <div class="skill">
+            <img src="link_to_icon3.png" alt="Skill 3">
+            <h3>HTML & CSS</h3>
         </div>
-    </section>
-
-    <!-- Skills Section -->
-    <section id="skills" class="skills-section bg-light py-5">
-        <div class="container text-center">
-            <h2 class="section-title">Skills</h2>
-            <p class="section-subtitle">Technologies I'm proficient in</p>
-            <div class="row">
-                <div class="col-md-12">
-                    <p align="center">
-                        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-                        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-                        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-                        <!-- Add more badges as needed -->
-                    </p>
-                </div>
-            </div>
+        <div class="skill">
+            <img src="link_to_icon4.png" alt="Skill 4">
+            <h3>FastAPI</h3>
         </div>
-    </section>
-
-    <!-- Projects Section -->
-    <section id="projects" class="projects-section py-5">
-        <div class="container text-center">
-            <h2 class="section-title">Projects</h2>
-            <p class="section-subtitle">Some of my recent work</p>
-            <div class="row">
-                <!-- Project 1 -->
-                <div class="col-md-4">
-                    <div class="card mb-4">
-                        <img src="https://via.placeholder.com/300" class="card-img-top" alt="Project Image">
-                        <div class="card-body">
-                            <h5 class="card-title">Project Name</h5>
-                            <p class="card-text">Short description of the project.</p>
-                            <a href="#" class="btn btn-primary">View Project</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Add more projects as needed -->
-            </div>
+        <div class="skill">
+            <img src="link_to_icon5.png" alt="Skill 5">
+            <h3>Redis</h3>
         </div>
-    </section>
-
-    <!-- Contact Section -->
-    <section id="contact" class="contact-section bg-dark text-white py-5">
-        <div class="container text-center">
-            <h2 class="section-title">Contact Me</h2>
-            <p class="section-subtitle">Let's get in touch!</p>
-            <div class="row">
-                <div class="col-md-12">
-                    <p class="lead">You can reach me on these platforms:</p>
-                    <!-- Social Media Badges -->
-                    <p align="center">
-                        <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-                        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
-                        <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-                    </p>
-                </div>
-            </div>
+        <div class="skill">
+            <img src="link_to_icon6.png" alt="Skill 6">
+            <h3>Arduino</h3>
         </div>
-    </section>
-
-    <!-- Footer -->
-    <footer class="bg-dark text-white py-3 text-center">
-        <div class="container">
-            <small>&copy; 2024 Nandakishore. All Rights Reserved.</small>
+        <div class="skill">
+            <img src="link_to_icon7.png" alt="Skill 7">
+            <h3>ESP8266</h3>
         </div>
-    </footer>
-
-    <!-- jQuery and Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
-    <!-- Custom JS -->
-    <script src="scripts.js"></script>
+        <div class="skill">
+            <img src="link_to_icon8.png" alt="Skill 8">
+            <h3>SSL Pinning Bypass</h3>
+        </div>
+    </div>
 </body>
 </html>
