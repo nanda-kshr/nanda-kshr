@@ -1,0 +1,56 @@
+skills:
+  - name: "Programming Languages"
+    details:
+      - "Python"
+      - "C/C++"
+      - "JavaScript"
+      - "HTML/CSS"
+      - "SQL"
+
+  - name: "Web Development"
+    details:
+      - "FastAPI"
+      - "Django"
+      - "React"
+      - "GitHub Pages"
+
+  - name: "Database Management"
+    details:
+      - "MySQL"
+      - "PostgreSQL"
+      - "Redis"
+      - "MongoDB"
+
+  - name: "Tools & Technologies"
+    details:
+      - "Git"
+      - "Docker"
+      - "NGINX"
+      - "VS Code"
+      - "Arduino"
+      - "ESP8266"
+
+  - name: "Cloud & DevOps"
+    details:
+      - "AWS"
+      - "Azure"
+      - "CI/CD Pipelines"
+      - "GitLab CI"
+
+  - name: "Machine Learning & AI"
+    details:
+      - "TensorFlow"
+      - "scikit-learn"
+      - "OpenAI GPT"
+
+  - name: "Game Development"
+    details:
+      - "Unity"
+      - "Blender"
+      - "Unreal Engine"
+
+  - name: "Others"
+    details:
+      - "SSL Pinning Bypass"
+      - "Virtual Environments"
+      - "JSON Handling"
