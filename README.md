@@ -1,7 +1,7 @@
 
  <img src="https://github.com/nanda-kshr/nanda-kshr/blob/156b33c546a63eb0fa4250537783663b01c0f313/images/github_banner.png">
 
-## **About me** <picture><img src = "https://github.com/nanda-kshr/nanda-kshr/blob/8496ca557ce6e626438d4880967fadef9b3e4323/images/task-user-icon-png.webp" width = 30px></picture> 
+## **About me** <img src = "https://github.com/nanda-kshr/nanda-kshr/blob/8496ca557ce6e626438d4880967fadef9b3e4323/images/task-user-icon-png.webp" width = 30px> 
 <div style="display: flex; justify-content: center;">
  <a href="https://github.com/nanda-kshr">
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+To+My+Page,;I+am+a+Student+from+India;Addicted+to+Programming;My+Keyboard+is+Broken,;So+I'll+Stop+Here+for+Now!" alt="Typing SVG">
