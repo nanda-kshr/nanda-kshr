@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>**
+**<b>📌 Daily Fact:</b>** February 22nd is the day in 1986 that Start of the People Power Revolution in the Philippines.
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
