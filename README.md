@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 22nd is the day in 1855 that the Pennsylvania State University is founded in State College, Pennsylvania (as the Farmers' High School of Pennsylvania).
+**<b>📌 Daily Fact:</b>** February 22nd is the day in 1974 that Samuel Byck tries and fails to assassinate U.S. President Richard Nixon.
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
