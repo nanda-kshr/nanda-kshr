@@ -22,9 +22,6 @@ git config user.name "Nandakishore"
 git config user.email "nandakishorep212@gmail.com"
 
 
-git pull --rebase
-
-
 git add .
 git commit -m "Updated README with today's fact" || exit 0
 git push git@github.com:nanda-kshr/nanda-kshr.git master
