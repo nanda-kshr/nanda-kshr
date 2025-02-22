@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 22nd is the day in 1959 that Lee Petty wins the first Daytona 500.
+**<b>📌 Daily Fact:</b>** February 22nd is the day in 1853 that Washington University in St. Louis is founded as Eliot Seminary in St. Louis, Missouri.
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
