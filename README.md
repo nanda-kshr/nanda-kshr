@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 22nd is the day in 1995 that the Corona reconnaissance satellite program, in existence from 1959 to 1972, is declassified.
+**<b>📌 Daily Fact:</b>** February 22nd is the day in 1855 that the Pennsylvania State University is founded in State College, Pennsylvania (as the Farmers' High School of Pennsylvania).
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
