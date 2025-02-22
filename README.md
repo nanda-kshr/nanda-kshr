@@ -16,6 +16,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nandakishorep212@gmail.com)
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+## 📌 Daily Fact
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 # Got my Hands on 🫳
 <p align="center" style="border-bottom: none;">
