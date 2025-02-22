@@ -1,5 +1,6 @@
 name: Update README with Daily Fact
-
+permissions:
+  contents: write
 on:
   schedule:
     - cron: "30 19 * * *" 
