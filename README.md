@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 22nd is the day in 1974 that the Organisation of the Islamic Conference summit begins in Lahore, Pakistan.
+**<b>📌 Daily Fact:</b>** February 22nd is the day in 1957 that Ngo Dinh Diem of South Vietnam survives a communist shooting assassination attempt in Ban Me Thuot.
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
