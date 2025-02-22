@@ -1,11 +1,14 @@
 #!/bin/bash
 
-#0 */2 * * */bin/bash /Users/nandakishore/Documents/personals/my-portfolioupdate_readme.sh >> /Users/nandakishore/Documents/personals/my-portfolio/log.txt 2>&1
 
-cd /Users/nandakishore/Documents/personals/my-portfolio || exit
 
+cd /Users/nandakishore/Documents/personals/my-portfolio
+echo "Current Directory: $(pwd)"
 
 DATE=$(date +'%m/%d')
+
+git config --global --add safe.directory /Users/nandakishore/Documents/personals/my-portfolio
+echo "Current Directory: $(pwd)"
 
 
 FACT=$(curl -s "http://numbersapi.com/$DATE")
@@ -17,8 +20,9 @@ awk -v fact="**<b>📌 Daily Fact:</b>** $FACT" '
 END {if (!found) print fact}
 ' README.md > temp.md && mv temp.md README.md
 
+echo "Current Directory: $(pwd)"
 
-git config user.name "Nandakishore"
+git config user.name "nandakishore"
 git config user.email "nandakishorep212@gmail.com"
 
 
