@@ -29,11 +29,16 @@ jobs:
           {print}
           END {if (!found) print fact}
           ' README.md > temp.md && mv temp.md README.md
-
-      - name: Commit and Push Changes
+      - name: Configure Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Pull Latest Changes
+        run: |
+          git fetch origin
+          git reset --soft origin/master  # Adjust branch name if needed
+      - name: Commit and Push Changes
+        run: |
           git add README.md
           git commit -m "Updated README with today's fact" || exit 0
           git push
