@@ -17,7 +17,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3>📌 Daily Fact</h3>
+<h3>📌 **Daily Fact**</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -116,4 +116,3 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-📌 **Daily Fact**: February 22nd is the day in 1959 that Lee Petty wins the first Daytona 500.
