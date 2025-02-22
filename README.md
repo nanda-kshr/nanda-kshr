@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 22nd is the day in 1972 that the Official Irish Republican Army detonates a car bomb at Aldershot barracks, killing seven and injuring nineteen others.
+**<b>📌 Daily Fact:</b>** February 22nd is the day in 1983 that the notorious Broadway flop Moose Murders opens and closes on the same night at the Eugene O'Neill Theatre.
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
