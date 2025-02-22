@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 22nd is the day in 1948 that Communist revolution in Czechoslovakia.
+**<b>📌 Daily Fact:</b>** February 22nd is the day in 1909 that the sixteen battleships of the Great White Fleet, led by Connecticut, return to the United States after a voyage around the world.
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
