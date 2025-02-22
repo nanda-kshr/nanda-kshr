@@ -25,7 +25,7 @@ jobs:
       - name: Update README
         run: |
           awk -v fact="**<b>📌 Daily Fact:</b>** ${{ env.FACT }}" '
-          /^**<b>📌 Daily Fact:</b>**/ {print fact; found=1; next}
+          /^\*\*<b>📌 Daily Fact:<\/b>\*\*/ {print fact; found=1; next}
           {print}
           END {if (!found) print fact}
           ' README.md > temp.md && mv temp.md README.md
