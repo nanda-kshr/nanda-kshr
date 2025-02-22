@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 
  <img src="https://github.com/nanda-kshr/nanda-kshr/blob/156b33c546a63eb0fa4250537783663b01c0f313/images/github_banner.png">
 
-## **About me** <img src = "https://github.com/nanda-kshr/nanda-kshr/blob/8496ca557ce6e626438d4880967fadef9b3e4323/images/task-user-icon-png.webp" width = 20px> 
+## **About me** 
 <div style="display: flex; justify-content: center;">
  <a href="https://github.com/nanda-kshr">
     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+To+My+Page,;I+am+a+Student+from+India;Addicted+to+Programming;My+Keyboard+is+Broken,;So+I'll+Stop+Here+for+Now!" alt="Typing SVG">
@@ -11,11 +10,12 @@
 
 
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-Linkdein-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/nandakishore-p-44a743151/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@jessicalim)](https://medium.com/@nandakishorep)
 [![Instagram Badge](https://img.shields.io/badge/-@nanda.kshr-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/nanda.kshr)
 [![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nandakishorep212@gmail.com)
+
+
 
 # Got my Hands on 🫳
 <p align="center" style="border-bottom: none;">
@@ -105,59 +105,9 @@
      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanda-kshr&layout=compact&langs_count=8&card_width=320&theme=dracula"/>
    </a>
  </div>
+<a href="https://www.buymeacoffee.com/nanda_kshr"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png"></a>
 
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-=======
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
-
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
-
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
-
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
->>>>>>> 2876cf4 (adding react web portfolio)
