@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 22nd is the day in 1958 that Egypt and Syria join to form the United Arab Republic.
+**<b>📌 Daily Fact:</b>** February 22nd is the day in 1856 that the Republican Party opens its first national meeting in Pittsburgh, Pennsylvania.
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
