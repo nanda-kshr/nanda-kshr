@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 22nd is the day in 1862 that Jefferson Davis is officially inaugurated for a six-year term as the President of the Confederate States of America in Richmond, Virginia.
+**<b>📌 Daily Fact:</b>** February 22nd is the day in 1994 that Aldrich Ames and his wife are charged by the United States Department of Justice with spying for the Soviet Union.
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
