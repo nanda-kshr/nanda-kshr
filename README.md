@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 23rd is the day in 1903 that Cuba leases Guantánamo Bay to the United States "in perpetuity".
+**<b>📌 Daily Fact:</b>** February 23rd is the day in 1955 that First meeting of the Southeast Asia Treaty Organization (SEATO).
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
