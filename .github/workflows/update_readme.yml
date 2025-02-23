@@ -35,6 +35,7 @@ jobs:
         run: |
           git config --global user.name "nanda-kshr"
           git config --global user.email "nandakishorep212@gmail.com"
+          git pull https://nanda-kshr:${GH_PAT}@github.com/nanda-kshr/nanda-kshr.git
           git add README.md
           git commit -m "Updated README with today's fact" || exit 0
           git push https://nanda-kshr:${GH_PAT}@github.com/nanda-kshr/nanda-kshr.git
