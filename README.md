@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 22nd is the day in 1995 that the Corona reconnaissance satellite program, in existence from 1959 to 1972, is declassified.
+**<b>📌 Daily Fact:</b>** February 23rd is the day in 1934 that Leopold III becomes King of Belgium.
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
