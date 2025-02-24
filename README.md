@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 24th is the day in 1996 that the last occurrence of February 24 as a leap day in the European Union and for the Roman Catholic Church.
+**<b>📌 Daily Fact:</b>** February 24th is the day in 1971 that the All India Forward Bloc holds an emergency central committee meeting after its chairman, Hemantha Kumar Bose, is killed 3 days earlier.
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
