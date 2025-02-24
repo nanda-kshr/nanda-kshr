@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 23rd is the day in 1846 that John Henry Newman leaves the Church of England and is received into the Roman Catholic Church.
+**<b>📌 Daily Fact:</b>** February 24th is the day in 1996 that the last occurrence of February 24 as a leap day in the European Union and for the Roman Catholic Church.
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
