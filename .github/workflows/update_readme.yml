@@ -38,4 +38,4 @@ jobs:
           git pull https://nanda-kshr:${GH_PAT}@github.com/nanda-kshr/nanda-kshr.git
           git add README.md
           git commit -m "Updated README with today's fact" || exit 0
-          git push https://nanda-kshr:${GH_PAT}@github.com/nanda-kshr/nanda-kshr.git
+          git push -f https://nanda-kshr:${GH_PAT}@github.com/nanda-kshr/nanda-kshr.git
