@@ -16,12 +16,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-nandakishorep212-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:nandakishorep212@gmail.com)
 
 
- **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 24th is the day in 1971 that the All India Forward Bloc holds an emergency central committee meeting after its chairman, Hemantha Kumar Bose, is killed 3 days earlier.
- **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
+---
+**<b>📌 Daily Fact:</b>** February 24th is the day in 1971 that the All India Forward Bloc holds an emergency central committee meeting after its chairman, Hemantha Kumar Bose, is killed 3 days earlier.
+---
 
 # Got my Hands on 🫳
+
 <p align="center" style="border-bottom: none;">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
