@@ -17,7 +17,7 @@
 
 
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
-**<b>📌 Daily Fact:</b>** February 24th is the day in 1971 that the All India Forward Bloc holds an emergency central committee meeting after its chairman, Hemantha Kumar Bose, is killed 3 days earlier.
+**<b>📌 Daily Fact:</b>** February 25th is the day in 1932 that Adolf Hitler obtains German citizenship by naturalization, which allows him to run in the 1932 election for Reichspräsident.
  **<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">**
 
 
