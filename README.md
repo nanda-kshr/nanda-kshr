@@ -131,6 +131,29 @@ As a technologist from India, I leverage diverse technologies to architect solut
 ## 🏆 GitHub Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=nanda-kshr&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="100%" />
 
+## 📊 Additional GitHub Metrics
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nanda-kshr&theme=dracula)
+
+![GitHub metrics](https://metrics.lecoq.io/nanda-kshr)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanda-kshr&theme=dracula" width="100%" />
+
+<details>
+  <summary>📈 Detailed GitHub Statistics</summary>
+  <br>
+  <img src="https://raw.githubusercontent.com/nanda-kshr/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/nanda-kshr/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <br>
+  <b>Note:</b> Top languages don't indicate my skill level, it's a GitHub metric showing languages I have the most code in on GitHub.
+</details>
+
+<!-- Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=nanda-kshr&color=blueviolet)
+
+<!-- Wakatime Stats (if you use Wakatime) -->
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nanda_kshr&theme=dracula)
+
 ---
 
 ## 📌 Current Focus
