@@ -133,17 +133,17 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ## 📊 Additional GitHub Metrics
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nanda-kshr&theme=dracula)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nanda-kshr&theme=dracula)
 
-![GitHub metrics](https://metrics.lecoq.io/nanda-kshr)
+![GitHub Metrics](https://metrics.lecoq.io/nanda-kshr)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanda-kshr&theme=dracula" width="100%" />
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanda-kshr&theme=dracula)
 
 <details>
   <summary>📈 Detailed GitHub Statistics</summary>
   <br>
-  <img src="https://raw.githubusercontent.com/nanda-kshr/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/nanda-kshr/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanda-kshr&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-kshr&layout=compact&theme=dracula" />
   <br>
   <b>Note:</b> Top languages don't indicate my skill level, it's a GitHub metric showing languages I have the most code in on GitHub.
 </details>
