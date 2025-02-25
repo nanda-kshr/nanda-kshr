@@ -17,11 +17,12 @@
 
 
 
-------
+<hr style="border-top: 1px solid #ccc;">
 
 **<b>📌 Daily Fact:</b>** February 24th is the day in 1971 that the All India Forward Bloc holds an emergency central committee meeting after its chairman, Hemantha Kumar Bose, is killed 3 days earlier.
 
-------
+<hr style="border-top: 1px solid #ccc;">
+
 
 # Got my Hands on 🫳
 
