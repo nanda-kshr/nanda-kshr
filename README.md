@@ -14,6 +14,10 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
+**<b>📌 Daily Fact:</b>** February 26th is the day in 2004 that Republic of Macedonia President Boris Trajkovski is killed in a plane crash near Mostar, Bosnia and Herzegovina.
+
+---
+
 ## 💡 Expertise
 
 <table>
@@ -154,17 +158,9 @@ As a technologist from India, I leverage diverse technologies to architect solut
 <!-- Wakatime Stats (if you use Wakatime) -->
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nanda_kshr&theme=dracula)
 
----
-
-## 📌 Current Focus
-
-I'm currently exploring the intersection of machine learning and cloud-native architectures, building systems that can scale intelligence from edge to enterprise.
-
----
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/nanda_kshr"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-**<b>📌 Daily Fact:</b>** February 26th is the day in 2004 that Republic of Macedonia President Boris Trajkovski is killed in a plane crash near Mostar, Bosnia and Herzegovina.
