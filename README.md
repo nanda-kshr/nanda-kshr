@@ -167,3 +167,4 @@ I'm currently exploring the intersection of machine learning and cloud-native ar
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**<b>📌 Daily Fact:</b>** February 26th is the day in 2004 that Republic of Macedonia President Boris Trajkovski is killed in a plane crash near Mostar, Bosnia and Herzegovina.
