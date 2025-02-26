@@ -144,7 +144,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanda-kshr&theme=dracula)
 
 <details>
-  <summary>📈 Detailed GitHub Statistics</summary>
+  <summary>  Detailed GitHub Statistics</summary>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanda-kshr&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-kshr&layout=compact&theme=dracula" />
@@ -156,8 +156,6 @@ As a technologist from India, I leverage diverse technologies to architect solut
 ![](https://komarev.com/ghpvc/?username=nanda-kshr&color=blueviolet)
 
 <!-- Wakatime Stats (if you use Wakatime) -->
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nanda_kshr&theme=dracula)
-
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/nanda_kshr"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
