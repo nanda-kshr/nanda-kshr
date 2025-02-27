@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** February 26th is the day in 2004 that Republic of Macedonia President Boris Trajkovski is killed in a plane crash near Mostar, Bosnia and Herzegovina.
+**<b>📌 Daily Fact:</b>** February 27th is the day in 1870 that the current flag of Japan is first adopted as the national flag for Japanese merchant ships.
 
 ---
 
