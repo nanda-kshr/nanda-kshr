@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** February 27th is the day in 1870 that the current flag of Japan is first adopted as the national flag for Japanese merchant ships.
+**<b>📌 Daily Fact:</b>** February 28th is the day in 1854 that the Republican Party of the United States is organized in Ripon, Wisconsin.
 
 ---
 
