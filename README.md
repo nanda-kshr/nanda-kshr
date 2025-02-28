@@ -119,29 +119,29 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ## 📈 Performance Metrics
 
+
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=nanda-kshr&show_icons=true&theme=dracula" width="100%" alt="GitHub Statistics" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=nanda-kshr&show_icons=true&theme=radical&hide_border=true" width="100%" alt="GitHub Statistics"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanda-kshr&layout=compact&langs_count=8&card_width=320&theme=dracula" width="100%" alt="Most Used Languages" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nanda-kshr&layout=compact&langs_count=10&theme=radical&hide_border=true&card_width=450" width="100%" alt="Most Used Languages"/>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nanda-kshr&theme=dracula&hide_border=true&border_radius=30&card_width=1000&card_height=200&fire=EB0000&stroke=17EB1A&currStreakNum=F6FF0A&sideNums=EBE769&excludeDaysLabel=60EAEB&border=3EFF35" alt="GitHub Streak" width="100%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nanda-kshr&theme=radical&hide_border=true&border_radius=15&fire=EB0000&stroke=17EB1A&currStreakNum=F6FF0A&sideNums=EBE769&excludeDaysLabel=60EAEB&border=3EFF35" alt="GitHub Streak" width="80%"/>
+</p>
 
 ## 🏆 GitHub Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=nanda-kshr&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="100%" />
 
-## 📊 Additional GitHub Metrics
+## 📊 GitHub Metrics
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nanda-kshr&theme=dracula)
 
-![GitHub Metrics](https://metrics.lecoq.io/nanda-kshr)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nanda-kshr&theme=dracula)
 
 <details>
   <summary>  Detailed GitHub Statistics</summary>
@@ -151,11 +151,6 @@ As a technologist from India, I leverage diverse technologies to architect solut
   <br>
   <b>Note:</b> Top languages don't indicate my skill level, it's a GitHub metric showing languages I have the most code in on GitHub.
 </details>
-
-<!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=nanda-kshr&color=blueviolet)
-
-<!-- Wakatime Stats (if you use Wakatime) -->
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/nanda_kshr"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
