@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** February 28th is the day in 1854 that the Republican Party of the United States is organized in Ripon, Wisconsin.
+**<b>📌 Daily Fact:</b>** March 1st is the day in 1941 that W47NV (now known as WSM-FM) begins operations in Nashville, Tennessee becoming the first FM radio station in the U.S..
 
 ---
 
