@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 1st is the day in 1941 that W47NV (now known as WSM-FM) begins operations in Nashville, Tennessee becoming the first FM radio station in the U.S..
+**<b>📌 Daily Fact:</b>** March 2nd is the day in 1825 that Roberto Cofresí, one of the last successful Caribbean pirates, is defeated in combat and captured by authorities.
 
 ---
 
