@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 2nd is the day in 1825 that Roberto Cofresí, one of the last successful Caribbean pirates, is defeated in combat and captured by authorities.
+**<b>📌 Daily Fact:</b>** March 3rd is the day in 1924 that the 1400-year-old Islamic caliphate is abolished when Caliph Abdul Mejid II of the Ottoman Empire is deposed.
 
 ---
 
