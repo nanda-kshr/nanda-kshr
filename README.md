@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 3rd is the day in 1924 that the 1400-year-old Islamic caliphate is abolished when Caliph Abdul Mejid II of the Ottoman Empire is deposed.
+**<b>📌 Daily Fact:</b>** March 4th is the day in 1794 that the 11th Amendment to the U.S. Constitution is passed by the U.S. Congress.
 
 ---
 
