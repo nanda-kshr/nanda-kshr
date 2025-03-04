@@ -132,7 +132,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-ag4yqe3da-beastuserbots-projects.vercel.app/?user=nanda-kshr&theme=radical&hide_border=true&card_width=450" alt="GitHub Streak" width="80%"/>
+  <img src="https://github-readme-streak-stats-ag4yqe3da-beastuserbots-projects.vercel.app/?user=nanda-kshr&theme=radical&hide_border=true&card_width=450" alt="GitHub Streak"/>
 </p>
 
 ## 🏆 GitHub Achievements
