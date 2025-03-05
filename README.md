@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 4th is the day in 1794 that the 11th Amendment to the U.S. Constitution is passed by the U.S. Congress.
+**<b>📌 Daily Fact:</b>** March 5th is the day in 1975 that First meeting of the Homebrew Computer Club.
 
 ---
 
