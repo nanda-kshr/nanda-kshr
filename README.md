@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 5th is the day in 1975 that First meeting of the Homebrew Computer Club.
+**<b>📌 Daily Fact:</b>** March 6th is the day in 1930 that International Unemployment Day demonstrations globally initiated by the Comintern.
 
 ---
 
