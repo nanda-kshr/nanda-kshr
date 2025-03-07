@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 6th is the day in 1930 that International Unemployment Day demonstrations globally initiated by the Comintern.
+**<b>📌 Daily Fact:</b>** March 7th is the day in 1985 that the song "We Are the World" has its international release.
 
 ---
 
