@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 7th is the day in 1985 that the song "We Are the World" has its international release.
+**<b>📌 Daily Fact:</b>** March 8th is the day in 1974 that Charles de Gaulle Airport opens in Paris, France.
 
 ---
 
