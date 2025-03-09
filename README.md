@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 8th is the day in 1974 that Charles de Gaulle Airport opens in Paris, France.
+**<b>📌 Daily Fact:</b>** March 9th is the day in 632 that the Last Sermon (Khutbah, Khutbatul Wada') of Prophet Muhammad.
 
 ---
 
