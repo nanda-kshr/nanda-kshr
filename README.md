@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 9th is the day in 632 that the Last Sermon (Khutbah, Khutbatul Wada') of Prophet Muhammad.
+**<b>📌 Daily Fact:</b>** March 10th is the day in 2000 that the NASDAQ Composite stock market index peaks at 5132.52, signaling the beginning of the end of the dot-com boom.
 
 ---
 
