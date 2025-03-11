@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 10th is the day in 2000 that the NASDAQ Composite stock market index peaks at 5132.52, signaling the beginning of the end of the dot-com boom.
+**<b>📌 Daily Fact:</b>** March 11th is the day in 1993 that Janet Reno is confirmed by the United States Senate and sworn in the next day, becoming the first female Attorney General of the United States.
 
 ---
 
