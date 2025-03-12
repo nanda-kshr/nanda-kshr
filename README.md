@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 11th is the day in 1993 that Janet Reno is confirmed by the United States Senate and sworn in the next day, becoming the first female Attorney General of the United States.
+**<b>📌 Daily Fact:</b>** March 12th is the day in 1992 that Mauritius becomes a republic while remaining a member of the Commonwealth of Nations.
 
 ---
 
