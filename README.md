@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 12th is the day in 1992 that Mauritius becomes a republic while remaining a member of the Commonwealth of Nations.
+**<b>📌 Daily Fact:</b>** March 13th is the day in 1940 that the Russo-Finnish Winter War ends.
 
 ---
 
