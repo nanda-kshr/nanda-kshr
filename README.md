@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 13th is the day in 1940 that the Russo-Finnish Winter War ends.
+**<b>📌 Daily Fact:</b>** March 14th is the day in 1381 that Chioggia concludes an alliance with Zadar and Trogir against Venice, which becomes changed in 1412 in Šibenik.
 
 ---
 
