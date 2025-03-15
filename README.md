@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 14th is the day in 1381 that Chioggia concludes an alliance with Zadar and Trogir against Venice, which becomes changed in 1412 in Šibenik.
+**<b>📌 Daily Fact:</b>** March 15th is the day in 1564 that Mughal Emperor Akbar abolishes jizya (per capita tax) .
 
 ---
 
