@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 15th is the day in 1564 that Mughal Emperor Akbar abolishes jizya (per capita tax) .
+**<b>📌 Daily Fact:</b>** March 16th is the day in 1940 that First person killed in a German bombing raid on the UK in World War II during a raid on Scapa Flow in the Orkney Islands, James Isbister.
 
 ---
 
