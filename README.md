@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 16th is the day in 1940 that First person killed in a German bombing raid on the UK in World War II during a raid on Scapa Flow in the Orkney Islands, James Isbister.
+**<b>📌 Daily Fact:</b>** March 17th is the day in 1945 that the Ludendorff Bridge in Remagen, Germany collapses, ten days after its capture.
 
 ---
 
