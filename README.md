@@ -143,8 +143,6 @@ As a technologist from India, I leverage diverse technologies to architect solut
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nanda-kshr&theme=dracula)
 
 
-<details>
-  <summary>  Detailed GitHub Statistics</summary>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nanda-kshr&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanda-kshr&layout=compact&theme=dracula" />
