@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 17th is the day in 1945 that the Ludendorff Bridge in Remagen, Germany collapses, ten days after its capture.
+**<b>📌 Daily Fact:</b>** March 18th is the day in 37 that the Roman Senate annuls Tiberius's will and proclaims Caligula emperor.
 
 ---
 
