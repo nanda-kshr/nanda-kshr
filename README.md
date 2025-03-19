@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 18th is the day in 37 that the Roman Senate annuls Tiberius's will and proclaims Caligula emperor.
+**<b>📌 Daily Fact:</b>** March 19th is the day in 1649 that the House of Commons of England passes an act abolishing the House of Lords, declaring it "useless and dangerous to the people of England".
 
 ---
 
