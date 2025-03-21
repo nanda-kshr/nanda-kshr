@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 20th is the day in 1916 that Albert Einstein publishes his general theory of relativity.
+**<b>📌 Daily Fact:</b>** March 21st is the day in 717 that Battle of Vincy between Charles Martel and Ragenfrid.
 
 ---
 
