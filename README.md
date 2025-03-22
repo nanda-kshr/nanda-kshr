@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 21st is the day in 717 that Battle of Vincy between Charles Martel and Ragenfrid.
+**<b>📌 Daily Fact:</b>** March 22nd is the day in 1975 that a fire at the Browns Ferry Nuclear Power Plant in Decatur, Alabama causes a dangerous reduction in cooling water levels.
 
 ---
 
