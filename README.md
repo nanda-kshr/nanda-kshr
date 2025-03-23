@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 22nd is the day in 1975 that a fire at the Browns Ferry Nuclear Power Plant in Decatur, Alabama causes a dangerous reduction in cooling water levels.
+**<b>📌 Daily Fact:</b>** March 23rd is the day in 1908 that American diplomat Durham Stevens is attacked by Korean assassins Jeon Myeong-un and Jang In-hwan, leading to his death in a hospital two days later.
 
 ---
 
