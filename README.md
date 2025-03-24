@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 23rd is the day in 1908 that American diplomat Durham Stevens is attacked by Korean assassins Jeon Myeong-un and Jang In-hwan, leading to his death in a hospital two days later.
+**<b>📌 Daily Fact:</b>** March 24th is the day in 1986 that the Loscoe gas explosion leads to new UK laws on landfill gas migration and gas protection on landfill sites.
 
 ---
 
