@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 24th is the day in 1986 that the Loscoe gas explosion leads to new UK laws on landfill gas migration and gas protection on landfill sites.
+**<b>📌 Daily Fact:</b>** March 25th is the day in 1958 that Canada's Avro Arrow makes its first flight.
 
 ---
 
