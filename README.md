@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 25th is the day in 1958 that Canada's Avro Arrow makes its first flight.
+**<b>📌 Daily Fact:</b>** March 26th is the day in 1991 that Argentina, Brazil, Uruguay and Paraguay sign the Treaty of Asunción, establishing Mercosur, the South Common Market.
 
 ---
 
