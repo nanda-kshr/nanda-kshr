@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 26th is the day in 1991 that Argentina, Brazil, Uruguay and Paraguay sign the Treaty of Asunción, establishing Mercosur, the South Common Market.
+**<b>📌 Daily Fact:</b>** March 27th is the day in 1910 that a fire during a barn-dance in Ököritófülpös, Hungary, kills 312.
 
 ---
 
