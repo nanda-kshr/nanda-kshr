@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 27th is the day in 1910 that a fire during a barn-dance in Ököritófülpös, Hungary, kills 312.
+**<b>📌 Daily Fact:</b>** March 28th is the day in 1802 that Heinrich Wilhelm Matthäus Olbers discovers 2 Pallas, the second asteroid known to man.
 
 ---
 
