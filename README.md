@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 28th is the day in 1802 that Heinrich Wilhelm Matthäus Olbers discovers 2 Pallas, the second asteroid known to man.
+**<b>📌 Daily Fact:</b>** March 29th is the day in 2004 that the Republic of Ireland becomes the first country in the world to ban smoking in all work places, including bars and restaurants.
 
 ---
 
