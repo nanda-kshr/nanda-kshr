@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 30th is the day in 1282 that the people of Sicily rebel against the Angevin king Charles I, in what becomes known as the Sicilian Vespers.
+**<b>📌 Daily Fact:</b>** March 31st is the day in 1931 that an earthquake destroys Managua, Nicaragua, killing 2,000.
 
 ---
 
