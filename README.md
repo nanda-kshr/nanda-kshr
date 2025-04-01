@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** March 31st is the day in 1931 that an earthquake destroys Managua, Nicaragua, killing 2,000.
+**<b>📌 Daily Fact:</b>** April 1st is the day in 1293 that Robert Winchelsey leaves England for Rome, to be consecrated as Archbishop of Canterbury.
 
 ---
 
