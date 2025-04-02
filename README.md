@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 1st is the day in 1293 that Robert Winchelsey leaves England for Rome, to be consecrated as Archbishop of Canterbury.
+**<b>📌 Daily Fact:</b>** April 2nd is the day in 1962 that the first official Panda crossing is opened outside Waterloo station, London.
 
 ---
 
