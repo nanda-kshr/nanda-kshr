@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 2nd is the day in 1962 that the first official Panda crossing is opened outside Waterloo station, London.
+**<b>📌 Daily Fact:</b>** April 3rd is the day in 1834 that the generals in the Greek War of Independence stand trial for treason.
 
 ---
 
