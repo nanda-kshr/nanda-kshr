@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 3rd is the day in 1834 that the generals in the Greek War of Independence stand trial for treason.
+**<b>📌 Daily Fact:</b>** April 4th is the day in 1939 that Faisal II becomes King of Iraq.
 
 ---
 
