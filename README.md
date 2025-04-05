@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 4th is the day in 1939 that Faisal II becomes King of Iraq.
+**<b>📌 Daily Fact:</b>** April 5th is the day in 1923 that Firestone Tire and Rubber Company begins production of balloon-tires.
 
 ---
 
