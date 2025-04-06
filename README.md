@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 5th is the day in 1923 that Firestone Tire and Rubber Company begins production of balloon-tires.
+**<b>📌 Daily Fact:</b>** April 6th is the day in 1926 that Varney Airlines makes its first commercial flight (Varney is the root company of United Airlines).
 
 ---
 
