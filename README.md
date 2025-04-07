@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 6th is the day in 1926 that Varney Airlines makes its first commercial flight (Varney is the root company of United Airlines).
+**<b>📌 Daily Fact:</b>** April 7th is the day in 1521 that Ferdinand Magellan arrives at Cebu.
 
 ---
 
