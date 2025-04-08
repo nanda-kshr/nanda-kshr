@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 7th is the day in 1521 that Ferdinand Magellan arrives at Cebu.
+**<b>📌 Daily Fact:</b>** April 8th is the day in 1953 that Mau Mau leader Jomo Kenyatta is convicted by Kenya's British rulers.
 
 ---
 
