@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 8th is the day in 1953 that Mau Mau leader Jomo Kenyatta is convicted by Kenya's British rulers.
+**<b>📌 Daily Fact:</b>** April 9th is the day in 1968 that Funeral of Martin Luther King, Jr.
 
 ---
 
