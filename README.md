@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 10th is the day in 1856 that the Theta Chi fraternity is founded at Norwich University.
+**<b>📌 Daily Fact:</b>** April 11th is the day in 491 that Flavius Anastasius becomes Byzantine Emperor, with the name of Anastasius I.
 
 ---
 
