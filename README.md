@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 11th is the day in 491 that Flavius Anastasius becomes Byzantine Emperor, with the name of Anastasius I.
+**<b>📌 Daily Fact:</b>** April 12th is the day in 1934 that the strongest surface wind gust in the world at 231 mph, is measured on the summit of Mount Washington, New Hampshire.
 
 ---
 
