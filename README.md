@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 12th is the day in 1934 that the strongest surface wind gust in the world at 231 mph, is measured on the summit of Mount Washington, New Hampshire.
+**<b>📌 Daily Fact:</b>** April 13th is the day in 1873 that the Colfax Massacre takes place.
 
 ---
 
