@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 13th is the day in 1873 that the Colfax Massacre takes place.
+**<b>📌 Daily Fact:</b>** April 14th is the day in 1860 that the first Pony Express rider reaches Sacramento, California.
 
 ---
 
