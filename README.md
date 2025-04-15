@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 14th is the day in 1860 that the first Pony Express rider reaches Sacramento, California.
+**<b>📌 Daily Fact:</b>** April 15th is the day in 1989 that Upon Hu Yaobang's death, the Tiananmen Square protests of 1989 begin in the People's Republic of China.
 
 ---
 
