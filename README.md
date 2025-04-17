@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 16th is the day in 1818 that the United States Senate ratifies the Rush-Bagot Treaty, establishing the border with Canada.
+**<b>📌 Daily Fact:</b>** April 17th is the day in 2006 that Sami Hammad, a Palestinian suicide bomber, detonates an explosive device in Tel Aviv, killing 11 people and injuring 70.
 
 ---
 
