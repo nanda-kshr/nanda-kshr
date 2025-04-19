@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 18th is the day in 1880 that an F4 tornado strikes Marshfield, Missouri, killing 99 people and injuring 100.
+**<b>📌 Daily Fact:</b>** April 19th is the day in 1951 that General Douglas MacArthur retires from the military.
 
 ---
 
