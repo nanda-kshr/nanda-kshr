@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 20th is the day in 1985 that the ATF raids The Covenant, The Sword, and the Arm of the Lord compound in northern Arkansas.
+**<b>📌 Daily Fact:</b>** April 21st is the day in 1941 that Emmanouil Tsouderos becomes the 132nd Prime Minister of Greece.
 
 ---
 
