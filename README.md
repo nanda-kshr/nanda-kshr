@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 21st is the day in 1941 that Emmanouil Tsouderos becomes the 132nd Prime Minister of Greece.
+**<b>📌 Daily Fact:</b>** April 22nd is the day in 1998 that Disney's Animal Kingdom opens at Walt Disney World near Orlando, Florida, United States.
 
 ---
 
