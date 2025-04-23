@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 22nd is the day in 1998 that Disney's Animal Kingdom opens at Walt Disney World near Orlando, Florida, United States.
+**<b>📌 Daily Fact:</b>** April 23rd is the day in 1935 that the Polish Constitution of 1935 is adopted.
 
 ---
 
