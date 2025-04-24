@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 23rd is the day in 1935 that the Polish Constitution of 1935 is adopted.
+**<b>📌 Daily Fact:</b>** April 24th is the day in 1479 BC that Thutmose III ascends to the throne of Egypt, although power effectively shifts to Hatshepsut (according to the Low Chronology of the 18th Dynasty).
 
 ---
 
