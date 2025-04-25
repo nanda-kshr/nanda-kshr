@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 24th is the day in 1479 BC that Thutmose III ascends to the throne of Egypt, although power effectively shifts to Hatshepsut (according to the Low Chronology of the 18th Dynasty).
+**<b>📌 Daily Fact:</b>** April 25th is the day in 1849 that the Governor General of Canada, Lord Elgin, signs the Rebellion Losses Bill, outraging Montreal's English population and triggering the Montreal Riots.
 
 ---
 
