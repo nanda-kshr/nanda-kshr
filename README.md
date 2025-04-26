@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 25th is the day in 1849 that the Governor General of Canada, Lord Elgin, signs the Rebellion Losses Bill, outraging Montreal's English population and triggering the Montreal Riots.
+**<b>📌 Daily Fact:</b>** April 26th is the day in 1964 that Tanganyika and Zanzibar merge to form Tanzania.
 
 ---
 
