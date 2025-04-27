@@ -15,9 +15,10 @@ interface BinaryParticle {
 
 const BinaryFlowEffect = () => {
   const canvasRef = useRef<HTMLCanvasElement>(null);
+  const particlesRef = useRef<BinaryParticle[]>([]);
+  const animationRef = useRef<number>();
   const [dimensions, setDimensions] = useState({ width: 0, height: 0 });
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
-  const [particles, setParticles] = useState<BinaryParticle[]>([]);
   const [isInitialized, setIsInitialized] = useState(false);
   
   // Initialize dimensions and create particles
@@ -34,6 +35,11 @@ const BinaryFlowEffect = () => {
     updateDimensions();
     window.addEventListener('resize', updateDimensions);
     
+    return () => window.removeEventListener('resize', updateDimensions);
+  }, []);
+  
+  // Create particles once when dimensions are set
+  useEffect(() => {
     if (dimensions.width > 0 && dimensions.height > 0 && !isInitialized) {
       const newParticles: BinaryParticle[] = [];
       const particleCount = Math.floor((dimensions.width * dimensions.height) / 10000);
@@ -46,17 +52,14 @@ const BinaryFlowEffect = () => {
           value: Math.random() > 0.5 ? "1" : "0",
           size: Math.random() * 14 + 10,
           opacity: Math.random() * 0.5 + 0.1,
-          speed: Math. random() * (0.5 - 0.01 + 1) + 0.01,
+          // Increased speed by multiplying by 5 for faster rain
+          speed: Math.random() * (0.5 - 0.01 + 1) * 5 + 0.8,
         });
       }
       
-      
-      
-      setParticles(newParticles);
+      particlesRef.current = newParticles;
       setIsInitialized(true);
     }
-    
-    return () => window.removeEventListener('resize', updateDimensions);
   }, [dimensions.width, dimensions.height, isInitialized]);
   
   // Handle mouse movement
@@ -72,32 +75,33 @@ const BinaryFlowEffect = () => {
     return () => window.removeEventListener('mousemove', handleMouseMove);
   }, []);
   
-  // Animation loop
+  // Animation loop - using refs to avoid state updates during animation
   useEffect(() => {
-    if (!canvasRef.current || particles.length === 0) return;
+    if (!canvasRef.current || !isInitialized) return;
     
     const canvas = canvasRef.current;
     const ctx = canvas.getContext('2d');
     if (!ctx) return;
     
-    let animationFrameId: number;
-    
     const animate = () => {
       ctx.clearRect(0, 0, dimensions.width, dimensions.height);
       
-      const updatedParticles = particles.map(particle => {
+      // Update and draw particles without updating state
+      particlesRef.current = particlesRef.current.map(particle => {
         // Calculate distance from mouse
         const dx = mousePosition.x - particle.x;
         const dy = mousePosition.y - particle.y;
         const distance = Math.sqrt(dx * dx + dy * dy);
         
-        // Move away from mouse if close
+        // Move away from mouse if close - increased reaction radius and strength
         let newX = particle.x;
         let newY = particle.y;
         
-        if (distance < 200) {
-          newX -= (dx / distance) * 2;
-          newY -= (dy / distance) * 2;
+        // Increased mouse reaction distance from 200 to 300
+        // Increased repulsion force from 2 to 5
+        if (distance < 300) {
+          newX -= (dx / distance) * 5;
+          newY -= (dy / distance) * 5;
         }
         
         // Normal movement
@@ -130,13 +134,17 @@ const BinaryFlowEffect = () => {
         };
       });
       
-      setParticles(updatedParticles);
-      animationFrameId = requestAnimationFrame(animate);
+      animationRef.current = requestAnimationFrame(animate);
     };
     
-    animate();
-    return () => cancelAnimationFrame(animationFrameId);
-  }, [particles, dimensions, mousePosition]);
+    animationRef.current = requestAnimationFrame(animate);
+    
+    return () => {
+      if (animationRef.current) {
+        cancelAnimationFrame(animationRef.current);
+      }
+    };
+  }, [dimensions, mousePosition, isInitialized]);
   
   return (
     <motion.div 
