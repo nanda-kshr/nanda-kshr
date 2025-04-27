@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 26th is the day in 1964 that Tanganyika and Zanzibar merge to form Tanzania.
+**<b>📌 Daily Fact:</b>** April 27th is the day in 2005 that the superjumbo jet aircraft Airbus A380 makes its first flight from Toulouse, France.
 
 ---
 
