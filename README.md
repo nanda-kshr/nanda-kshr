@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 28th is the day in 1969 that Charles de Gaulle resigns as President of France.
+**<b>📌 Daily Fact:</b>** April 29th is the day in 1882 that the "Elektromote" – forerunner of the trolleybus – is tested by Ernst Werner von Siemens in Berlin.
 
 ---
 
