@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** April 29th is the day in 1882 that the "Elektromote" – forerunner of the trolleybus – is tested by Ernst Werner von Siemens in Berlin.
+**<b>📌 Daily Fact:</b>** April 30th is the day in 1927 that the Federal Industrial Institute for Women opens in Alderson, West Virginia, as the first women's federal prison in the United States.
 
 ---
 
