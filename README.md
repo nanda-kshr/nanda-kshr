@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 1st is the day in 1950 that Guam is organized as a United States commonwealth.
+**<b>📌 Daily Fact:</b>** May 2nd is the day in 1952 that the world's first ever jet airliner, the De Havilland Comet 1 makes its maiden flight, from London to Johannesburg.
 
 ---
 
