@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 2nd is the day in 1952 that the world's first ever jet airliner, the De Havilland Comet 1 makes its maiden flight, from London to Johannesburg.
+**<b>📌 Daily Fact:</b>** May 3rd is the day in 1973 that the 108-story Sears Tower in Chicago is topped out at 1.451 feet as the world's tallest building.
 
 ---
 
