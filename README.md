@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 3rd is the day in 1973 that the 108-story Sears Tower in Chicago is topped out at 1.451 feet as the world's tallest building.
+**<b>📌 Daily Fact:</b>** May 4th is the day in 1988 that the PEPCON disaster rocks Henderson, Nevada, as tons of space shuttle fuel detonate during a fire.
 
 ---
 
