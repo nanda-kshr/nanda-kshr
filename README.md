@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 4th is the day in 1988 that the PEPCON disaster rocks Henderson, Nevada, as tons of space shuttle fuel detonate during a fire.
+**<b>📌 Daily Fact:</b>** May 5th is the day in 1809 that Mary Kies becomes the first woman awarded a U.S. patent, for a technique of weaving straw with silk and thread.
 
 ---
 
