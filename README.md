@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 5th is the day in 1809 that Mary Kies becomes the first woman awarded a U.S. patent, for a technique of weaving straw with silk and thread.
+**<b>📌 Daily Fact:</b>** May 6th is the day in 1542 that Francis Xavier reaches Old Goa, the capital of Portuguese India at the time.
 
 ---
 
