@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 7th is the day in 1429 that Joan of Arc ends the Siege of Orléans, pulling an arrow from her own shoulder and returning, wounded, to lead the final charge.
+**<b>📌 Daily Fact:</b>** May 8th is the day in 1933 that Mohandas Gandhi begins a 21-day fast in protest against British oppression in India.
 
 ---
 
