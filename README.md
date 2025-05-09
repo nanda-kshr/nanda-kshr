@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 8th is the day in 1933 that Mohandas Gandhi begins a 21-day fast in protest against British oppression in India.
+**<b>📌 Daily Fact:</b>** May 9th is the day in 1927 that the Australian Parliament first convenes in Canberra.
 
 ---
 
