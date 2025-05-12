@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 11th is the day in 1987 that Klaus Barbie goes on trial in Lyon for war crimes committed during World War II.
+**<b>📌 Daily Fact:</b>** May 12th is the day in 1743 that Maria Theresa of Austria is crowned Queen of Bohemia after defeating her rival, Charles VII, Holy Roman Emperor.
 
 ---
 
