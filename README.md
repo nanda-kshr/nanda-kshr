@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 12th is the day in 1743 that Maria Theresa of Austria is crowned Queen of Bohemia after defeating her rival, Charles VII, Holy Roman Emperor.
+**<b>📌 Daily Fact:</b>** May 13th is the day in 1995 that a 33 years old British mother Alison Hargreaves, became the first woman to conquer Everest without oxygen or the help of sherpas.
 
 ---
 
