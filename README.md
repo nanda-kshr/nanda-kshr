@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 13th is the day in 1995 that a 33 years old British mother Alison Hargreaves, became the first woman to conquer Everest without oxygen or the help of sherpas.
+**<b>📌 Daily Fact:</b>** May 14th is the day in 1943 that a Japanese submarine sinks AHS Centaur off the coast of Queensland.
 
 ---
 
