@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 14th is the day in 1943 that a Japanese submarine sinks AHS Centaur off the coast of Queensland.
+**<b>📌 Daily Fact:</b>** May 15th is the day in 1943 that Joseph Stalin dissolves the Comintern (or Third International).
 
 ---
 
