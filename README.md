@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 15th is the day in 1943 that Joseph Stalin dissolves the Comintern (or Third International).
+**<b>📌 Daily Fact:</b>** May 16th is the day in 1204 that Baldwin IX, Count of Flanders is crowned as the first Emperor of the Latin Empire.
 
 ---
 
