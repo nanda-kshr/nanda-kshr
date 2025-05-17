@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 16th is the day in 1204 that Baldwin IX, Count of Flanders is crowned as the first Emperor of the Latin Empire.
+**<b>📌 Daily Fact:</b>** May 17th is the day in 1792 that the New York Stock Exchange is formed.
 
 ---
 
