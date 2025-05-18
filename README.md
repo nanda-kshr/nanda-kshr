@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 17th is the day in 1792 that the New York Stock Exchange is formed.
+**<b>📌 Daily Fact:</b>** May 18th is the day in 1268 that the Principality of Antioch, a crusader state, falls to the Mamluk Sultan Baibars in the Battle of Antioch.
 
 ---
 
