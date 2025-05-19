@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 18th is the day in 1268 that the Principality of Antioch, a crusader state, falls to the Mamluk Sultan Baibars in the Battle of Antioch.
+**<b>📌 Daily Fact:</b>** May 19th is the day in 2010 that the Royal Thai Armed Forces concludes its crackdown on protests by forcing the surrender of United Front for Democracy Against Dictatorship leaders.
 
 ---
 
