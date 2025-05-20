@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 19th is the day in 2010 that the Royal Thai Armed Forces concludes its crackdown on protests by forcing the surrender of United Front for Democracy Against Dictatorship leaders.
+**<b>📌 Daily Fact:</b>** May 20th is the day in 1862 that U.S. President Abraham Lincoln signs the Homestead Act into law.
 
 ---
 
