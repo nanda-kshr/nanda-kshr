@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 21st is the day in 879 that Pope John VIII gives blessings to duke Branimir and to Croatian people, considered to be international recognition of the Croatian state.
+**<b>📌 Daily Fact:</b>** May 22nd is the day in 853 that a Byzantine fleet sacks and destroys undefended Damietta in Egypt.
 
 ---
 
