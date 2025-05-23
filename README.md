@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 22nd is the day in 853 that a Byzantine fleet sacks and destroys undefended Damietta in Egypt.
+**<b>📌 Daily Fact:</b>** May 23rd is the day in 1805 that Napoleon Bonaparte is crowned King of Italy with the Iron Crown of Lombardy in the Cathedral of Milan.
 
 ---
 
