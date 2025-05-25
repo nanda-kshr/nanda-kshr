@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 24th is the day in 1798 that the Irish Rebellion of 1798 led by the United Irishmen against British rule begins.
+**<b>📌 Daily Fact:</b>** May 25th is the day in 1997 that a military coup in Sierra Leone replaces President Ahmad Tejan Kabbah with Major Johnny Paul Koromah.
 
 ---
 
