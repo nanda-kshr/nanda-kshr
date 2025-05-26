@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 25th is the day in 1997 that a military coup in Sierra Leone replaces President Ahmad Tejan Kabbah with Major Johnny Paul Koromah.
+**<b>📌 Daily Fact:</b>** May 26th is the day in 1868 that the impeachment trial of U.S. President Andrew Johnson ends with Johnson being found not guilty by one vote.
 
 ---
 
