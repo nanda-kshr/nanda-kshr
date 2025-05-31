@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 30th is the day in 1588 that the last ship of the Spanish Armada sets sail from Lisbon heading for the English Channel.
+**<b>📌 Daily Fact:</b>** May 31st is the day in 1854 that the civil death procedure is abolished in France.
 
 ---
 
