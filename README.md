@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** May 31st is the day in 1854 that the civil death procedure is abolished in France.
+**<b>📌 Daily Fact:</b>** June 1st is the day in 1910 that Robert Falcon Scott's South Pole expedition leaves England.
 
 ---
 
