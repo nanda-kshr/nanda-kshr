@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 1st is the day in 1910 that Robert Falcon Scott's South Pole expedition leaves England.
+**<b>📌 Daily Fact:</b>** June 2nd is the day in 1999 that the Bhutan Broadcasting Service brings television transmissions to the Kingdom for the first time.
 
 ---
 
