@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 2nd is the day in 1999 that the Bhutan Broadcasting Service brings television transmissions to the Kingdom for the first time.
+**<b>📌 Daily Fact:</b>** June 3rd is the day in 1982 that the Israeli ambassador to the United Kingdom, Shlomo Argov, is shot on a London street.
 
 ---
 
