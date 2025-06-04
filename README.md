@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 3rd is the day in 1982 that the Israeli ambassador to the United Kingdom, Shlomo Argov, is shot on a London street.
+**<b>📌 Daily Fact:</b>** June 4th is the day in 1957 that Dr. Martin Luther King, Jr. delivered his famous Power of Nonviolence speech at the University of California, Berkeley.
 
 ---
 
