@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 4th is the day in 1957 that Dr. Martin Luther King, Jr. delivered his famous Power of Nonviolence speech at the University of California, Berkeley.
+**<b>📌 Daily Fact:</b>** June 5th is the day in 1849 that Denmark becomes a constitutional monarchy by the signing of a new constitution.
 
 ---
 
