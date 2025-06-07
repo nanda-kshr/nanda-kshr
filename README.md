@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 6th is the day in 1523 that Gustav Vasa is elected King of Sweden, marking the end of the Kalmar Union.
+**<b>📌 Daily Fact:</b>** June 7th is the day in 421 that Emperor Theodosius II marries Aelia Eudocia.
 
 ---
 
