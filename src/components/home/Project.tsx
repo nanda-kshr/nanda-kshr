@@ -3,6 +3,7 @@
 import { AnimatePresence, motion } from "framer-motion";
 import { useState, useEffect, useMemo } from "react";
 import { FaGithub, FaExternalLinkAlt, FaLock, FaCloud, FaRobot, FaUsers, FaShieldAlt } from "react-icons/fa";
+import { useRouter } from "next/navigation";
 
 interface ProjectProps {
   projectsRef: React.RefObject<HTMLElement> | ((node?: Element | null | undefined) => void);
@@ -24,6 +25,7 @@ interface ProjectData {
 export default function Project({ projectsRef, projectsInView }: ProjectProps) {
   const [hoveredProject, setHoveredProject] = useState<number | null>(null);
   const [showAll, setShowAll] = useState<boolean>(false);
+  const router = useRouter();
   
   // Digital lines effect
   const digitalLines = useMemo(() => 
@@ -309,6 +311,34 @@ export default function Project({ projectsRef, projectsInView }: ProjectProps) {
                   />
                 </motion.div>
               ))}
+            </motion.div>
+            
+            {/* View All Projects Button */}
+            <motion.div
+              variants={itemVariants}
+              className="mt-12 flex justify-center"
+            >
+              <motion.button
+                onClick={() => router.push('/projects')}
+                className="relative group px-8 py-3 rounded-md bg-transparent text-white font-medium overflow-hidden"
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
+              >
+                {/* Button border */}
+                <span className="absolute inset-0 border border-[#90EE9060] rounded-md"></span>
+                
+                {/* Button glow effect */}
+                <span className="absolute inset-0 bg-gradient-to-r from-[#90EE9000] via-[#90EE9020] to-[#90EE9000] opacity-0 group-hover:opacity-100 transform group-hover:translate-x-full transition-all duration-1000 ease-out rounded-md"></span>
+                
+                {/* Button text */}
+                <span className="relative z-10 flex items-center gap-2">
+                  View All Projects
+                  <svg className="w-4 h-4 transform group-hover:translate-x-1 transition-transform duration-200" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M3.33337 8H12.6667" stroke="#90EE90" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                    <path d="M8 3.33337L12.6667 8.00004L8 12.6667" stroke="#90EE90" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+                  </svg>
+                </span>
+              </motion.button>
             </motion.div>
             
             {/* Hover prompt */}
