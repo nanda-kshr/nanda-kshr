@@ -1,17 +1,40 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
-import Portfolio from './CreativePortfolio'
+import { useState, useRef, useEffect } from "react";
+import { AnimatePresence } from "framer-motion";
+import { usePathname } from "next/navigation";
+import CreativePortfolio from "./CreativePortfolio";
+import Projects from "./components/projects/Projects";
+import './App.css';
 
-function App() {
-  const [count, setCount] = useState(0)
+export default function App() {
+  const [isLoading, setIsLoading] = useState(true);
+  const pathname = usePathname();
+
+  useEffect(() => {
+    // Simulate loading time
+    const timer = setTimeout(() => {
+      setIsLoading(false);
+    }, 2000);
+
+    return () => clearTimeout(timer);
+  }, []);
+
+  if (isLoading) {
+    return (
+      <div className="fixed inset-0 bg-black flex items-center justify-center">
+        <div className="text-[#90EE90] text-2xl font-mono">Loading...</div>
+      </div>
+    );
+  }
 
   return (
-    <>
-      <Portfolio />
-    </>
-  )
+    <div className="min-h-screen bg-black">
+      <AnimatePresence mode="wait">
+        {pathname === '/' ? (
+          <CreativePortfolio key="home" />
+        ) : pathname === '/projects' ? (
+          <Projects key="projects" />
+        ) : null}
+      </AnimatePresence>
+    </div>
+  );
 }
-
-export default App

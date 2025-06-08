@@ -1,6 +1,7 @@
 import { AnimatePresence, motion } from "framer-motion";
 import { FaGithub, FaLinkedin, FaInstagram, FaMedium } from "react-icons/fa";
 import { useRef, useEffect } from "react";
+import { useRouter } from "next/navigation";
 
 interface AboutProps {
   aboutRef: React.RefObject<HTMLElement> | ((node?: Element | null | undefined) => void);
@@ -9,6 +10,7 @@ interface AboutProps {
 
 export default function About({ aboutRef, aboutInView }: AboutProps) {
   const glowRef = useRef<HTMLDivElement>(null);
+  const router = useRouter();
   
   // Follow mouse movement for the glow effect
   useEffect(() => {
@@ -169,6 +171,7 @@ export default function About({ aboutRef, aboutInView }: AboutProps) {
 
                   <motion.div variants={itemVariants} className="flex justify-center mt-8">
                     <motion.button
+                      onClick={() => router.push('/projects')}
                       className="relative group px-8 py-3 rounded-md bg-transparent text-white font-medium overflow-hidden"
                       whileHover={{ scale: 1.02 }}
                       whileTap={{ scale: 0.98 }}

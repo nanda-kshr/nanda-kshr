@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Linkedin, Mail, ExternalLink, Code, Terminal } from 'lucide-react';
+import { Linkedin, Mail, ExternalLink, Code, Terminal, Github } from 'lucide-react';
 
 const CreativePortfolio = () => {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
@@ -20,24 +20,32 @@ const CreativePortfolio = () => {
 
   const projects = [
     {
-      title: "Neural Network Visualizer",
-      description: "Interactive 3D visualization of neural networks",
+      title: "AutoML",
+      description: "An AI agent that automates Machine Learning and data preprocessing, providing preprocessed datasets and best model recommendations",
       color: "from-purple-500 to-pink-500",
-      link: "#"
+      link: "https://github.com/nanda-kshr/AutoML"
     },
     {
-      title: "Crypto Portfolio Tracker",
-      description: "Real-time cryptocurrency dashboard",
+      title: "Unlimited Photos Cloud Storage",
+      description: "A Telegram-based cloud storage solution for photos, similar to Google Photos but leveraging Telegram's unlimited storage",
       color: "from-blue-500 to-teal-500",
-      link: "#"
+      link: "https://unlimited-photos-cloud-storage.vercel.app"
     },
     {
-      title: "AI Music Generator",
-      description: "Generate music using machine learning",
+      title: "Meeko",
+      description: "A full-stack social media platform for sharing stories and experiences",
       color: "from-orange-500 to-red-500",
-      link: "#"
+      link: "http://meeko-lemon.vercel.app"
     }
   ];
+
+  // Add colors for each section
+  const sectionColors = {
+    home: 'from-blue-500 to-purple-500',
+    projects: 'from-purple-500 to-pink-500',
+    about: 'from-pink-500 to-orange-500',
+    contact: 'from-orange-500 to-yellow-500'
+  };
 
   if (isLoading) {
     return (
@@ -53,24 +61,51 @@ const CreativePortfolio = () => {
     <div className="min-h-screen bg-black text-white overflow-hidden">
       {/* Animated Background Gradient */}
       <div 
-        className="fixed inset-0 opacity-20 transition-all duration-1000 pointer-events-none"
+        className="fixed inset-0 opacity-20 transition-all duration-1000 pointer-events-none z-0"
         style={{
           background: `radial-gradient(circle at ${mousePosition.x}px ${mousePosition.y}px, rgba(99,102,241,0.15) 0%, rgba(99,102,241,0) 50%)`
         }}
       />
 
       {/* Navigation Dots */}
-      <div className="fixed right-8 top-1/2 transform -translate-y-1/2 space-y-4 z-50">
+      <div className="fixed right-8 top-1/2 transform -translate-y-1/2 space-y-8 z-50">
         {['home', 'projects', 'about', 'contact'].map((section) => (
           <button
             key={section}
             onClick={() => setActiveSection(section)}
-            className={`w-3 h-3 rounded-full transition-all duration-300 ${
+            className={`w-6 h-6 rounded-full transition-all duration-300 relative group ${
               activeSection === section 
-                ? 'bg-white scale-150' 
-                : 'bg-gray-600 hover:bg-gray-400'
+                ? 'scale-125' 
+                : 'hover:scale-110'
             }`}
-          />
+          >
+            {/* Main dot with gradient */}
+            <div className={`absolute inset-0 rounded-full bg-gradient-to-br ${sectionColors[section]} opacity-80`} />
+            
+            {/* Glow effect */}
+            <div className={`absolute inset-0 rounded-full bg-gradient-to-br ${sectionColors[section]} opacity-30 blur-md`} />
+            
+            {/* Particles */}
+            <div className="absolute inset-0 rounded-full overflow-hidden">
+              {[...Array(8)].map((_, i) => (
+                <div
+                  key={i}
+                  className={`absolute w-1 h-1 rounded-full bg-gradient-to-br ${sectionColors[section]} animate-pulse`}
+                  style={{
+                    top: `${Math.random() * 100}%`,
+                    left: `${Math.random() * 100}%`,
+                    animationDelay: `${Math.random() * 2}s`,
+                    opacity: Math.random() * 0.5 + 0.5
+                  }}
+                />
+              ))}
+            </div>
+            
+            {/* Section label */}
+            <span className="absolute -right-24 opacity-0 group-hover:opacity-100 transition-opacity duration-300 text-sm text-gray-400 capitalize whitespace-nowrap">
+              {section}
+            </span>
+          </button>
         ))}
       </div>
 
@@ -88,18 +123,37 @@ const CreativePortfolio = () => {
           </h1>
           
           <div className="flex justify-center space-x-6 mt-12">
-            {[Mail, Linkedin, Mail].map((Icon, index) => (
-              <a
-                key={index}
-                href="#"
-                className="transform hover:scale-125 transition-all duration-300"
-              >
-                <Icon 
-                  size={32}
-                  className="hover:text-purple-500 transition-colors"
-                />
-              </a>
-            ))}
+            <a
+              href="http://linkedin.com/in/nandakishore-p-44a743151/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="transform hover:scale-125 transition-all duration-300"
+            >
+              <Linkedin 
+                size={32}
+                className="hover:text-purple-500 transition-colors"
+              />
+            </a>
+            <a
+              href="mailto:nandakishorep212@gmail.com"
+              className="transform hover:scale-125 transition-all duration-300"
+            >
+              <Mail 
+                size={32}
+                className="hover:text-purple-500 transition-colors"
+              />
+            </a>
+            <a
+              href="http://github.com/nanda-kshr"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="transform hover:scale-125 transition-all duration-300"
+            >
+              <Github 
+                size={32}
+                className="hover:text-purple-500 transition-colors"
+              />
+            </a>
           </div>
         </div>
 
@@ -191,7 +245,7 @@ const CreativePortfolio = () => {
           </h2>
           
           <a
-            href="mailto:contact@example.com"
+            href="mailto:nandakishorep212@gmail.com"
             className="inline-block relative group"
           >
             <span className="absolute inset-0 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-lg blur group-hover:blur-md transition-all duration-300" />

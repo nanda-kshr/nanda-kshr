@@ -15,6 +15,81 @@ export default function Skills({ heroRef, heroInView, textY }: HeroProps) {
             ref={heroRef}
             className="relative h-screen flex items-center justify-center overflow-hidden"
         >
+            {/* Navigation Guide Arrow */}
+            <motion.div
+                className="absolute right-24 md:right-32 lg:right-40 top-1/2 transform -translate-y-1/2 z-40 hidden sm:block"
+                initial={{ opacity: 0, x: 20 }}
+                animate={{ opacity: 1, x: 0 }}
+                transition={{ delay: 2.5, duration: 0.5 }}
+            >
+                <motion.div
+                    className="flex items-center gap-3 text-[#90EE90]"
+                    animate={{
+                        x: [0, 10, 0],
+                    }}
+                    transition={{
+                        duration: 1.5,
+                        repeat: Infinity,
+                        repeatType: "reverse",
+                    }}
+                >
+                    <span className="text-base md:text-lg lg:text-xl font-light tracking-wide">Navigate</span>
+                    <svg
+                        width="28"
+                        height="28"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="w-6 h-6 md:w-7 md:h-7 lg:w-8 lg:h-8"
+                    >
+                        <path
+                            d="M5 12H19M19 12L12 5M19 12L12 19"
+                            stroke="currentColor"
+                            strokeWidth="2"
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                        />
+                    </svg>
+                </motion.div>
+            </motion.div>
+
+            {/* Mobile Navigation Hint */}
+            <motion.div
+                className="absolute bottom-8 left-1/2 transform -translate-x-1/2 z-40 sm:hidden"
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: 2.5, duration: 0.5 }}
+            >
+                <motion.div
+                    className="flex items-center gap-2 text-[#90EE90]"
+                    animate={{
+                        y: [0, 5, 0],
+                    }}
+                    transition={{
+                        duration: 1.5,
+                        repeat: Infinity,
+                        repeatType: "reverse",
+                    }}
+                >
+                    <span className="text-base font-light">Swipe to navigate</span>
+                    <svg
+                        width="24"
+                        height="24"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        xmlns="http://www.w3.org/2000/svg"
+                        className="w-5 h-5"
+                    >
+                        <path
+                            d="M9 5L16 12L9 19"
+                            stroke="currentColor"
+                            strokeWidth="2"
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                        />
+                    </svg>
+                </motion.div>
+            </motion.div>
 
             <AnimatePresence>
                 {heroInView && (
