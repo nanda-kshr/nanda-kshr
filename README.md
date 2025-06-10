@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 9th is the day in 1986 that the Rogers Commission releases its report on the Space Shuttle Challenger disaster.
+**<b>📌 Daily Fact:</b>** June 10th is the day in 2002 that the first direct electronic communication experiment between the nervous systems of two humans is carried out by Kevin Warwick in the United Kingdom.
 
 ---
 
