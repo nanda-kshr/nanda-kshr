@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 10th is the day in 2002 that the first direct electronic communication experiment between the nervous systems of two humans is carried out by Kevin Warwick in the United Kingdom.
+**<b>📌 Daily Fact:</b>** June 11th is the day in 1509 that Henry VIII of England marries Catherine of Aragon.
 
 ---
 
