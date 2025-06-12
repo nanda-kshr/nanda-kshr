@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 11th is the day in 1509 that Henry VIII of England marries Catherine of Aragon.
+**<b>📌 Daily Fact:</b>** June 12th is the day in 1860 that the State Bank of the Russian Empire is established.
 
 ---
 
