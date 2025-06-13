@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 12th is the day in 1860 that the State Bank of the Russian Empire is established.
+**<b>📌 Daily Fact:</b>** June 13th is the day in 1966 that the United States Supreme Court rules in Miranda v. Arizona that the police must inform suspects of their rights before questioning them.
 
 ---
 
