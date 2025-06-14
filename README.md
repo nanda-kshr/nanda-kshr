@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 13th is the day in 1966 that the United States Supreme Court rules in Miranda v. Arizona that the police must inform suspects of their rights before questioning them.
+**<b>📌 Daily Fact:</b>** June 14th is the day in 1900 that the Reichstag approves a second law that allows the expansion of the German navy.
 
 ---
 
