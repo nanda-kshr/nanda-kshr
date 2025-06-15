@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 14th is the day in 1900 that the Reichstag approves a second law that allows the expansion of the German navy.
+**<b>📌 Daily Fact:</b>** June 15th is the day in 1844 that Charles Goodyear receives a patent for vulcanization, a process to strengthen rubber.
 
 ---
 
