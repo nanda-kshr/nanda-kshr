@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 17th is the day in 1885 that the Statue of Liberty arrives in New York Harbor.
+**<b>📌 Daily Fact:</b>** June 18th is the day in 1945 that William Joyce (Lord Haw-Haw) is charged with treason for his pro-German propaganda broadcasting during World War II.
 
 ---
 
