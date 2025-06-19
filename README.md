@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 18th is the day in 1945 that William Joyce (Lord Haw-Haw) is charged with treason for his pro-German propaganda broadcasting during World War II.
+**<b>📌 Daily Fact:</b>** June 19th is the day in 1179 that the Norwegian Battle of Kalvskinnet outside Nidaros.
 
 ---
 
