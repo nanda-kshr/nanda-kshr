@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 20th is the day in 1982 that the Argentine base (Corbeta Uruguay) on Southern Thule surrenders to Royal Marine commandos in the final action of the Falklands War.
+**<b>📌 Daily Fact:</b>** June 21st is the day in 1898 that the United States captures Guam from Spain.
 
 ---
 
