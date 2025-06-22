@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 21st is the day in 1898 that the United States captures Guam from Spain.
+**<b>📌 Daily Fact:</b>** June 22nd is the day in 1911 that George V and Mary of Teck are crowned King and Queen of the United Kingdom of Great Britain and Ireland.
 
 ---
 
