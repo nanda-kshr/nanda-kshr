@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 22nd is the day in 1911 that George V and Mary of Teck are crowned King and Queen of the United Kingdom of Great Britain and Ireland.
+**<b>📌 Daily Fact:</b>** June 23rd is the day in 1565 that Turgut Reis (Dragut), commander of the Ottoman navy, dies during the Siege of Malta.
 
 ---
 
