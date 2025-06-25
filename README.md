@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 24th is the day in 1717 that the Premier Grand Lodge of England, the first Masonic Grand Lodge in the world (now the United Grand Lodge of England), is founded in London, England.
+**<b>📌 Daily Fact:</b>** June 25th is the day in 1997 that an unmanned Progress spacecraft collides with the Russian space station Mir.
 
 ---
 
