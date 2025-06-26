@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 25th is the day in 1997 that an unmanned Progress spacecraft collides with the Russian space station Mir.
+**<b>📌 Daily Fact:</b>** June 26th is the day in 1857 that the first investiture of the Victoria Cross in Hyde Park, London.
 
 ---
 
