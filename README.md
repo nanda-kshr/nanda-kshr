@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 26th is the day in 1857 that the first investiture of the Victoria Cross in Hyde Park, London.
+**<b>📌 Daily Fact:</b>** June 27th is the day in 1950 that the United States decides to send troops to fight in the Korean War.
 
 ---
 
