@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 27th is the day in 1950 that the United States decides to send troops to fight in the Korean War.
+**<b>📌 Daily Fact:</b>** June 28th is the day in 1948 that Boxer Dick Turpin beats Vince Hawkins at Villa Park in Birmingham to become the first black British boxing champion in the modern era.
 
 ---
 
