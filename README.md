@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 29th is the day in 1976 that the Seychelles become independent from the United Kingdom.
+**<b>📌 Daily Fact:</b>** June 30th is the day in 1966 that the National Organization for Women, the United States' largest feminist organization, is founded.
 
 ---
 
