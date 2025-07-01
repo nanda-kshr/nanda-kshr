@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** June 30th is the day in 1966 that the National Organization for Women, the United States' largest feminist organization, is founded.
+**<b>📌 Daily Fact:</b>** July 1st is the day in 1984 that the PG-13 rating is introduced by the MPAA.
 
 ---
 
