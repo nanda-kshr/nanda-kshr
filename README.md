@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 1st is the day in 1984 that the PG-13 rating is introduced by the MPAA.
+**<b>📌 Daily Fact:</b>** July 2nd is the day in 1871 that Victor Emmanuel II of Italy enters Rome after having conquered it from the Papal States.
 
 ---
 
