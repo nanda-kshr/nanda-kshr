@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 2nd is the day in 1871 that Victor Emmanuel II of Italy enters Rome after having conquered it from the Papal States.
+**<b>📌 Daily Fact:</b>** July 3rd is the day in 1979 that U.S. President Jimmy Carter signs the first directive for secret aid to the opponents of the pro-Soviet regime in Kabul.
 
 ---
 
