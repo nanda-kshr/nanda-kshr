@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 3rd is the day in 1979 that U.S. President Jimmy Carter signs the first directive for secret aid to the opponents of the pro-Soviet regime in Kabul.
+**<b>📌 Daily Fact:</b>** July 4th is the day in 1054 that a supernova is seen by Chinese, Arab, and possibly Amerindian observers near the star Zeta Tauri.
 
 ---
 
