@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 4th is the day in 1054 that a supernova is seen by Chinese, Arab, and possibly Amerindian observers near the star Zeta Tauri.
+**<b>📌 Daily Fact:</b>** July 5th is the day in 2006 that North Korea launches at least two short-range Nodong-2 missiles, one SCUD missile and one long-range Taepodong-2 missile.
 
 ---
 
