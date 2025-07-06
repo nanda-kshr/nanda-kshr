@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 5th is the day in 2006 that North Korea launches at least two short-range Nodong-2 missiles, one SCUD missile and one long-range Taepodong-2 missile.
+**<b>📌 Daily Fact:</b>** July 6th is the day in 1988 that the Piper Alpha drilling platform in the North Sea is destroyed by explosions and fires.
 
 ---
 
