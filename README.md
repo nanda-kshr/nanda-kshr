@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 6th is the day in 1988 that the Piper Alpha drilling platform in the North Sea is destroyed by explosions and fires.
+**<b>📌 Daily Fact:</b>** July 7th is the day in 1863 that United States begins its first military draft; exemptions cost $300.
 
 ---
 
