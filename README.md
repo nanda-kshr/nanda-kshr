@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 7th is the day in 1863 that United States begins its first military draft; exemptions cost $300.
+**<b>📌 Daily Fact:</b>** July 8th is the day in 1892 that St. John's, Newfoundland is devastated in the Great Fire of 1892.
 
 ---
 
