@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 9th is the day in 1932 that the state of São Paulo revolts against the Brazilian Federal Government, starting the Constitutionalist Revolution.
+**<b>📌 Daily Fact:</b>** July 10th is the day in 1584 that William I of Orange is assassinated in his home in Delft, Holland by Balthasar Gérard.
 
 ---
 
