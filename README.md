@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 10th is the day in 1584 that William I of Orange is assassinated in his home in Delft, Holland by Balthasar Gérard.
+**<b>📌 Daily Fact:</b>** July 11th is the day in 1616 that Samuel de Champlain returns to Quebec.
 
 ---
 
