@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 11th is the day in 1616 that Samuel de Champlain returns to Quebec.
+**<b>📌 Daily Fact:</b>** July 12th is the day in 1790 that the Civil Constitution of the Clergy is passed in France by the National Constituent Assembly.
 
 ---
 
