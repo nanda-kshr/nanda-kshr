@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 14th is the day in 1960 that Jane Goodall arrives at the Gombe Stream Reserve in present-day Tanzania to begin her famous study of chimpanzees in the wild.
+**<b>📌 Daily Fact:</b>** July 15th is the day in 1888 that the stratovolcano Mount Bandai erupts killing approximately 500 people, in Fukushima Prefecture, Japan.
 
 ---
 
