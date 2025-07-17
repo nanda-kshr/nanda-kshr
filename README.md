@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 16th is the day in 1941 that Joe DiMaggio hits safely for the 56th consecutive game, a streak that still stands as a MLB record.
+**<b>📌 Daily Fact:</b>** July 17th is the day in 1762 that Catherine II becomes tsar of Russia upon the murder of Peter III of Russia.
 
 ---
 
