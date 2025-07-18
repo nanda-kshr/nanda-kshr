@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 17th is the day in 1762 that Catherine II becomes tsar of Russia upon the murder of Peter III of Russia.
+**<b>📌 Daily Fact:</b>** July 18th is the day in 1862 that First ascent of Dent Blanche, one of the highest summits in the Alps.
 
 ---
 
