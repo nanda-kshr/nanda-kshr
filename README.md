@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 19th is the day in 1900 that the first line of the Paris Métro opens for operation.
+**<b>📌 Daily Fact:</b>** July 20th is the day in 1980 that the United Nations Security Council votes 14-0 that member states should not recognize Jerusalem as the capital of Israel.
 
 ---
 
