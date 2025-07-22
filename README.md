@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 21st is the day in 1997 that the fully restored USS Constitution (aka Old Ironsides) celebrates her 200th birthday by setting sail for the first time in 116 years.
+**<b>📌 Daily Fact:</b>** July 22nd is the day in 1997 that the second Blue Water Bridge opens between Port Huron, Michigan and Sarnia, Ontario.
 
 ---
 
