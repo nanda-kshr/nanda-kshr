@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 22nd is the day in 1997 that the second Blue Water Bridge opens between Port Huron, Michigan and Sarnia, Ontario.
+**<b>📌 Daily Fact:</b>** July 23rd is the day in 1962 that Telstar relays the first publicly transmitted, live trans-Atlantic television program, featuring Walter Cronkite.
 
 ---
 
