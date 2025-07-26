@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 25th is the day in 1993 that Israel launches a massive attack against Lebanon in what the Israelis call Operation Accountability, and the Lebanese call Seven-Day War.
+**<b>📌 Daily Fact:</b>** July 26th is the day in 1944 that the first German V-2 rocket hits Great Britain.
 
 ---
 
