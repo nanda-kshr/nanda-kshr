@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 26th is the day in 1944 that the first German V-2 rocket hits Great Britain.
+**<b>📌 Daily Fact:</b>** July 27th is the day in 1549 that the Jesuit priest Francis Xavier's ship reaches Japan.
 
 ---
 
