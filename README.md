@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 27th is the day in 1549 that the Jesuit priest Francis Xavier's ship reaches Japan.
+**<b>📌 Daily Fact:</b>** July 28th is the day in 1540 that Thomas Cromwell is executed at the order of Henry VIII of England on charges of treason.
 
 ---
 
