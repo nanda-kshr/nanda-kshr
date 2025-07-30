@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** July 29th is the day in 1959 that First United States Congress elections in Hawaii as a state of the Union.
+**<b>📌 Daily Fact:</b>** July 30th is the day in 1811 that Father Miguel Hidalgo y Costilla, leader of the Mexican insurgency, is executed by the Spanish in Chihuahua, Mexico.
 
 ---
 
