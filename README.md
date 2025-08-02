@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 1st is the day in 2004 that a supermarket fire kills 396 people and injures 500 in Asunción, Paraguay.
+**<b>📌 Daily Fact:</b>** August 2nd is the day in 1973 that a flash fire kills 51 at the Summerland amusement centre at Douglas, Isle of Man.
 
 ---
 
