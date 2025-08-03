@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 2nd is the day in 1973 that a flash fire kills 51 at the Summerland amusement centre at Douglas, Isle of Man.
+**<b>📌 Daily Fact:</b>** August 3rd is the day in 1949 that the National Basketball Association is founded in the United States.
 
 ---
 
