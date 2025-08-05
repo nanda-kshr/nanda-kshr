@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 4th is the day in 1965 that the Constitution of Cook Islands comes into force, giving the Cook Islands self-governing status within New Zealand.
+**<b>📌 Daily Fact:</b>** August 5th is the day in 2003 that a car bomb explodes in the Indonesian capital of Jakarta outside the Marriott Hotel killing 12 and injuring 150.
 
 ---
 
