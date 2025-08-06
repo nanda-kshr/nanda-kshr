@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 5th is the day in 2003 that a car bomb explodes in the Indonesian capital of Jakarta outside the Marriott Hotel killing 12 and injuring 150.
+**<b>📌 Daily Fact:</b>** August 6th is the day in 1942 that Queen Wilhelmina of the Netherlands becomes the first reigning queen to address a joint session of the United States Congress.
 
 ---
 
