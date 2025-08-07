@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 6th is the day in 1942 that Queen Wilhelmina of the Netherlands becomes the first reigning queen to address a joint session of the United States Congress.
+**<b>📌 Daily Fact:</b>** August 7th is the day in 1427 that the Visconti of Milan's fleet is destroyed by the Venetians on the Po River.
 
 ---
 
