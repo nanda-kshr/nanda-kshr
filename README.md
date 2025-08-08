@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 7th is the day in 1427 that the Visconti of Milan's fleet is destroyed by the Venetians on the Po River.
+**<b>📌 Daily Fact:</b>** August 8th is the day in 1709 that Bartolomeu de Gusmão demonstrates the lifting power of hot air in an audience before the King of Portugal in Lisbon.
 
 ---
 
