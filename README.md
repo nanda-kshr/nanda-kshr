@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 9th is the day in 1842 that the Webster-Ashburton Treaty is signed, establishing the United States-Canada border east of the Rocky Mountains.
+**<b>📌 Daily Fact:</b>** August 10th is the day in 1813 that Instituto Nacional, is founded by the Chilean patriot José Miguel Carrera.
 
 ---
 
