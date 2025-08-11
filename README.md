@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 10th is the day in 1813 that Instituto Nacional, is founded by the Chilean patriot José Miguel Carrera.
+**<b>📌 Daily Fact:</b>** August 11th is the day in 1952 that Hussein bin Talal is proclaimed King of Jordan.
 
 ---
 
