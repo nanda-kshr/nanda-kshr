@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 11th is the day in 1952 that Hussein bin Talal is proclaimed King of Jordan.
+**<b>📌 Daily Fact:</b>** August 12th is the day in 1898 that an Armistice ends the Spanish-American War.
 
 ---
 
