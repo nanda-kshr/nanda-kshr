@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 12th is the day in 1898 that an Armistice ends the Spanish-American War.
+**<b>📌 Daily Fact:</b>** August 13th is the day in 1937 that the Battle of Shanghai begins.
 
 ---
 
