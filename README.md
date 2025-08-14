@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 13th is the day in 1937 that the Battle of Shanghai begins.
+**<b>📌 Daily Fact:</b>** August 14th is the day in 1994 that Ilich Ramírez Sánchez, also known as "Carlos the Jackal," is captured.
 
 ---
 
