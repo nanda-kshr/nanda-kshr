@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 14th is the day in 1994 that Ilich Ramírez Sánchez, also known as "Carlos the Jackal," is captured.
+**<b>📌 Daily Fact:</b>** August 15th is the day in 1309 that the city of Rhodes surrenders to the forces of the Knights of St. John, completing their conquest of Rhodes.
 
 ---
 
