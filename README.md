@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 15th is the day in 1309 that the city of Rhodes surrenders to the forces of the Knights of St. John, completing their conquest of Rhodes.
+**<b>📌 Daily Fact:</b>** August 16th is the day in 1920 that the congress of the Communist Party of Bukhara opens.
 
 ---
 
