@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 16th is the day in 1920 that the congress of the Communist Party of Bukhara opens.
+**<b>📌 Daily Fact:</b>** August 17th is the day in 1883 that the first public performance of the Dominican Republic's national anthem, Himno Nacional.
 
 ---
 
