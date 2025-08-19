@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 18th is the day in 1917 that a Great Fire in Thessaloniki, Greece destroys 32% of the city leaving 70,000 individuals homeless.
+**<b>📌 Daily Fact:</b>** August 19th is the day in 1861 that First ascent of Weisshorn, fifth highest summit in the Alps.
 
 ---
 
