@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 19th is the day in 1861 that First ascent of Weisshorn, fifth highest summit in the Alps.
+**<b>📌 Daily Fact:</b>** August 20th is the day in 1938 that Lou Gehrig hits his 23rd career grand slam – a record that still stands.
 
 ---
 
