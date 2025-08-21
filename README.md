@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 20th is the day in 1938 that Lou Gehrig hits his 23rd career grand slam – a record that still stands.
+**<b>📌 Daily Fact:</b>** August 21st is the day in 1991 that Latvia declares renewal of its full independence after the occupation of Soviet Union.
 
 ---
 
