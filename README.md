@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 21st is the day in 1991 that Latvia declares renewal of its full independence after the occupation of Soviet Union.
+**<b>📌 Daily Fact:</b>** August 22nd is the day in 1559 that Bartolomé Carranza, Spanish archbishop, is arrested for heresy.
 
 ---
 
