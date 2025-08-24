@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 23rd is the day in 1982 that Bachir Gemayel is elected Lebanese President amidst the raging civil war.
+**<b>📌 Daily Fact:</b>** August 24th is the day in 1998 that First RFID human implantation tested in the United Kingdom.
 
 ---
 
