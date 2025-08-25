@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 24th is the day in 1998 that First RFID human implantation tested in the United Kingdom.
+**<b>📌 Daily Fact:</b>** August 25th is the day in 1989 that Voyager 2 spacecraft makes its closest approach to Neptune, the outermost planet in the Solar System.
 
 ---
 
