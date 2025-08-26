@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 25th is the day in 1989 that Voyager 2 spacecraft makes its closest approach to Neptune, the outermost planet in the Solar System.
+**<b>📌 Daily Fact:</b>** August 26th is the day in 1977 that the Charter of the French Language is adopted by the National Assembly of Quebec.
 
 ---
 
