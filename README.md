@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 26th is the day in 1977 that the Charter of the French Language is adopted by the National Assembly of Quebec.
+**<b>📌 Daily Fact:</b>** August 27th is the day in 1172 that Henry the Young King and Margaret of France are crowned as junior king and queen of England.
 
 ---
 
