@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 28th is the day in 1953 that Nippon Television broadcasts Japan's first television show, including its first TV advertisement.
+**<b>📌 Daily Fact:</b>** August 29th is the day in 1541 that the Ottoman Turks capture Buda, the capital of the Hungarian Kingdom.
 
 ---
 
