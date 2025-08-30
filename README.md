@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 29th is the day in 1541 that the Ottoman Turks capture Buda, the capital of the Hungarian Kingdom.
+**<b>📌 Daily Fact:</b>** August 30th is the day in 1963 that the Hotline between the leaders of the U.S.A. and the Soviet Union goes into operation.
 
 ---
 
