@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** August 30th is the day in 1963 that the Hotline between the leaders of the U.S.A. and the Soviet Union goes into operation.
+**<b>📌 Daily Fact:</b>** August 31st is the day in 1986 that the Soviet passenger liner  Admiral Nakhimov sinks in the Black Sea after colliding with the bulk carrier Pyotr Vasev, killing 423.
 
 ---
 
