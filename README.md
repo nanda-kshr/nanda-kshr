@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 1st is the day in 1910 that Sport Club Corinthians Paulista is created in São Paulo.
+**<b>📌 Daily Fact:</b>** September 2nd is the day in 1649 that the Italian city of Castro is completely destroyed by the forces of Pope Innocent X, ending the Wars of Castro.
 
 ---
 
