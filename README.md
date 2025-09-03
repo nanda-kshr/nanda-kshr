@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 2nd is the day in 1649 that the Italian city of Castro is completely destroyed by the forces of Pope Innocent X, ending the Wars of Castro.
+**<b>📌 Daily Fact:</b>** September 3rd is the day in 301 that San Marino, one of the smallest nations in the world and the world's oldest republic still in existence, is founded by Saint Marinus.
 
 ---
 
