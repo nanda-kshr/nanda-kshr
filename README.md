@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 3rd is the day in 301 that San Marino, one of the smallest nations in the world and the world's oldest republic still in existence, is founded by Saint Marinus.
+**<b>📌 Daily Fact:</b>** September 4th is the day in 1950 that Darlington Raceway is the site of the inaugural Southern 500, the first 500-mile NASCAR race.
 
 ---
 
