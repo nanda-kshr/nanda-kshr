@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 4th is the day in 1950 that Darlington Raceway is the site of the inaugural Southern 500, the first 500-mile NASCAR race.
+**<b>📌 Daily Fact:</b>** September 5th is the day in 1945 that Iva Toguri D'Aquino, a Japanese-American suspected of being wartime radio propagandist Tokyo Rose, is arrested in Yokohama.
 
 ---
 
