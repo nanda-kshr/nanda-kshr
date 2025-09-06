@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 5th is the day in 1945 that Iva Toguri D'Aquino, a Japanese-American suspected of being wartime radio propagandist Tokyo Rose, is arrested in Yokohama.
+**<b>📌 Daily Fact:</b>** September 6th is the day in 1870 that Louisa Ann Swain of Laramie, Wyoming becomes the first woman in the United States to cast a vote legally after 1807.
 
 ---
 
