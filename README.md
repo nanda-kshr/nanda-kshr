@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 8th is the day in 1965 that Pakistan Navy raids Indian coasts without any resistance in Operation Dwarka, Pakistan celebrates Victory Day annually.
+**<b>📌 Daily Fact:</b>** September 9th is the day in 1991 that Tajikstan gains independence from the Soviet Union.
 
 ---
 
