@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 9th is the day in 1991 that Tajikstan gains independence from the Soviet Union.
+**<b>📌 Daily Fact:</b>** September 10th is the day in 1813 that the United States defeats the British Fleet at the Battle of Lake Erie during the War of 1812.
 
 ---
 
