@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 10th is the day in 1813 that the United States defeats the British Fleet at the Battle of Lake Erie during the War of 1812.
+**<b>📌 Daily Fact:</b>** September 11th is the day in 1526 that the Ottoman army occupies Buda after the crushing Hungarian defeat in the Battle of Mohács.
 
 ---
 
