@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 11th is the day in 1526 that the Ottoman army occupies Buda after the crushing Hungarian defeat in the Battle of Mohács.
+**<b>📌 Daily Fact:</b>** September 12th is the day in 1999 that Indonesia announces it will allow international peace-keepers into East Timor.
 
 ---
 
