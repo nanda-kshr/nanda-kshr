@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 12th is the day in 1999 that Indonesia announces it will allow international peace-keepers into East Timor.
+**<b>📌 Daily Fact:</b>** September 13th is the day in 1906 that First flight of a fixed-wing aircraft in Europe.
 
 ---
 
