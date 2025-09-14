@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 13th is the day in 1906 that First flight of a fixed-wing aircraft in Europe.
+**<b>📌 Daily Fact:</b>** September 14th is the day in 1607 that Flight of the Earls from Lough Swilly, Donegal, Ireland.
 
 ---
 
