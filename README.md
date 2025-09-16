@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 15th is the day in 1947 that RCA releases the 12AX7 vacuum tube.
+**<b>📌 Daily Fact:</b>** September 16th is the day in 1880 that the Cornell Daily Sun prints its first issue in Ithaca, New York.
 
 ---
 
