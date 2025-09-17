@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 16th is the day in 1880 that the Cornell Daily Sun prints its first issue in Ithaca, New York.
+**<b>📌 Daily Fact:</b>** September 17th is the day in 1111 that Highest Galician nobility led by Pedro Fróilaz de Traba and the bishop Diego Gelmírez crown Alfonso VII as "King of Galicia".
 
 ---
 
