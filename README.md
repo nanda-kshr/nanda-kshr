@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 17th is the day in 1111 that Highest Galician nobility led by Pedro Fróilaz de Traba and the bishop Diego Gelmírez crown Alfonso VII as "King of Galicia".
+**<b>📌 Daily Fact:</b>** September 18th is the day in 1928 that Juan de la Cierva makes the first autogyro crossing of the English Channel.
 
 ---
 
