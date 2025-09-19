@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 18th is the day in 1928 that Juan de la Cierva makes the first autogyro crossing of the English Channel.
+**<b>📌 Daily Fact:</b>** September 19th is the day in 2010 that the leaking oil well in the Deepwater Horizon oil spill is sealed.
 
 ---
 
