@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 19th is the day in 2010 that the leaking oil well in the Deepwater Horizon oil spill is sealed.
+**<b>📌 Daily Fact:</b>** September 20th is the day in 1973 that Billie Jean King beats Bobby Riggs in The Battle of the Sexes tennis match at the Houston Astrodome in Houston, Texas.
 
 ---
 
