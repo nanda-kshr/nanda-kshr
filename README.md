@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Fact:</b>** September 21st is the day in 1971 that Bahrain, Bhutan and Qatar join the United Nations.
+**<b>📌 Daily Joke:</b>** September 21st is the day in 1971 that Bahrain, Bhutan and Qatar join the United Nations.
 
 ---
 

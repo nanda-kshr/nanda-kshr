@@ -1,4 +1,4 @@
-name: Update README with Daily Fact
+name: Update README with Daily Joke
 
 on:
   schedule:
@@ -16,17 +16,17 @@ jobs:
       - name: Fetch Today's Date
         run: echo "DATE=$(date +'%m/%d')" >> $GITHUB_ENV
 
-      - name: Fetch Daily Fact
+      - name: Fetch Daily Joke
         run: |
-          FACT=$(curl -s "http://numbersapi.com/${{ env.DATE }}")
-          echo "FACT=$FACT" >> $GITHUB_ENV
+          JOKE=$(curl -s "https://v2.jokeapi.dev/joke/Any?format=txt&type=single")
+          echo "JOKE=$JOKE" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          awk -v fact="**<b>📌 Daily Fact:</b>** $FACT" '
-          /^\*\*<b>📌 Daily Fact:<\/b>\*\*/ {print fact; found=1; next}
+          awk -v joke="**<b>📌 Daily Joke:</b>** $JOKE" '
+          /^\*\*<b>📌 Daily Joke:<\/b>\*\*/ {print joke; found=1; next}
           {print}
-          END {if (!found) print fact}
+          END {if (!found) print joke}
           ' README.md > temp.md && mv temp.md README.md
 
       - name: Commit and Push Changes
@@ -37,5 +37,5 @@ jobs:
           git config --global user.email "nandakishorep212@gmail.com"
           git pull https://nanda-kshr:${GH_PAT}@github.com/nanda-kshr/nanda-kshr.git
           git add README.md
-          git commit -m "Updated README with today's fact" || exit 0
+          git commit -m "Updated README with today's joke" || exit 0
           git push -f  https://nanda-kshr:${GH_PAT}@github.com/nanda-kshr/nanda-kshr.git
