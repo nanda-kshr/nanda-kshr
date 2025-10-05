@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Joke:</b>** Schrödinger's cat walks into a bar and doesn't.
+**<b>📌 Daily Joke:</b>** Debugging: Removing the needles from the haystack.
 
 ---
 
