@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Joke:</b>** Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.
+**<b>📌 Daily Joke:</b>** I didn't vaccinate my 10 kids and the one that survived is fine!
 
 ---
 
