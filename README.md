@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Joke:</b>** I didn't vaccinate my 10 kids and the one that survived is fine!
+**<b>📌 Daily Joke:</b>** I was reading a great book about an immortal dog the other day. It was impossible to put down.
 
 ---
 
