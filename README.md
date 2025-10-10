@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Joke:</b>** I was reading a great book about an immortal dog the other day. It was impossible to put down.
+**<b>📌 Daily Joke:</b>** I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
 
 ---
 
