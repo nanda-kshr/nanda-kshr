@@ -14,7 +14,7 @@ As a technologist from India, I leverage diverse technologies to architect solut
 
 ---
 
-**<b>📌 Daily Joke:</b>** I'll never forget my Granddad's last words to me just before he died. "Are you still holding the ladder?"
+**<b>📌 Daily Joke:</b>** 
 
 ---
 
