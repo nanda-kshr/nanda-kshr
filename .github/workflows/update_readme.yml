@@ -19,7 +19,7 @@ jobs:
       - name: Fetch Daily Joke
         run: |
           JOKE=$(curl -s "https://v2.jokeapi.dev/joke/Any?format=txt&type=single")
-          echo "JOKE=$JOKE" >> $GITHUB_ENV
+          echo "JOKE=$JOKE"
 
       - name: Update README
         run: |
