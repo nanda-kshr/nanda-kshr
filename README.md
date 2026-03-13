@@ -12,9 +12,6 @@
 
 As a technologist from India, I leverage diverse technologies to architect solutions that bridge innovation and practicality. My expertise spans full-stack development, cloud infrastructure, and machine learning, enabling me to transform complex challenges into elegant digital solutions.
 
----
-
-**<b>📌 Daily Joke:</b>** 
 
 ---
 
