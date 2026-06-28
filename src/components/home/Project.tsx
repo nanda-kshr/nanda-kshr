@@ -2,7 +2,7 @@
 
 import { AnimatePresence, motion } from "framer-motion";
 import { useState, useEffect, useMemo } from "react";
-import { FaGithub, FaExternalLinkAlt, FaLock, FaCloud, FaRobot, FaUsers, FaShieldAlt } from "react-icons/fa";
+import { FaGithub, FaExternalLinkAlt, FaLock, FaCloud, FaRobot, FaUsers, FaShieldAlt, FaBrain, FaServer } from "react-icons/fa";
 import { useRouter } from "next/navigation";
 
 interface ProjectProps {
@@ -81,6 +81,24 @@ export default function Project({ projectsRef, projectsInView }: ProjectProps) {
       icon: <FaRobot size={22} />,
       private: true,
       image: "/projects/automl.webp"
+    },
+    {
+      title: "Deconstructing LLM",
+      desc: "Simple language model built from scratch.",
+      longDesc: "A complete from-scratch implementation of a Large Language Model to study transformer architectures, self-attention, and training pipelines.",
+      tech: ["Python", "PyTorch", "NumPy", "Transformers"],
+      color: "from-green-500 to-emerald-400",
+      icon: <FaBrain size={22} />,
+      private: false
+    },
+    {
+      title: "Task Scheduler with Blockchain",
+      desc: "Secure task scheduler using blockchain technology.",
+      longDesc: "A decentralized, tamper-proof task scheduling and execution system utilizing blockchain to ensure auditability and security.",
+      tech: ["TypeScript", "Solidity", "Node.js", "Express", "Web3.js"],
+      color: "from-green-600 to-teal-500",
+      icon: <FaServer size={22} />,
+      private: false
     }
   ], []);
 

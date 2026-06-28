@@ -278,6 +278,99 @@ const Projects = ({ projectsRef, projectsInView = true }: ProjectsProps) => {
       color: "from-green-400 to-emerald-500",
       icon: <FaMobile size={22} />,
       private: false
+    },
+    {
+      title: "Deconstructing-LLM",
+      description: "A simple implementation of a Large Language Model (LLM) built from scratch to study transformer and neural network architectures.",
+      githubLink: "https://github.com/nanda-kshr/Deconstructing-LLM",
+      category: "AI/ML",
+      featured: true,
+      color: "from-green-500 to-emerald-400",
+      icon: <FaBrain size={22} />,
+      private: false
+    },
+    {
+      title: "Task-Scheduler-with-Blockchain",
+      description: "A secure and decentralized task scheduler system leveraging blockchain technology for immutable scheduling logs and verifiable task execution.",
+      githubLink: "https://github.com/nanda-kshr/Task-Scheduler-with-Blockchain",
+      category: "Security",
+      featured: true,
+      color: "from-green-600 to-teal-500",
+      icon: <FaServer size={22} />,
+      private: false
+    },
+    {
+      title: "Promptsmith-MCP",
+      description: "A Model Context Protocol (MCP) server designed for crafting, managing, and template-rendering LLM prompts and context definitions.",
+      githubLink: "https://github.com/nanda-kshr/Promptsmith-MCP",
+      category: "Tools",
+      featured: true,
+      color: "from-emerald-500 to-green-500",
+      icon: <FaTools size={22} />,
+      private: false
+    },
+    {
+      title: "Devops-AI-Agent",
+      description: "An autonomous AI agent designed for DevOps operations, handling server monitoring, automated troubleshooting, and log analysis.",
+      githubLink: "https://github.com/nanda-kshr/Devops-AI-Agent",
+      category: "Automation",
+      color: "from-emerald-400 to-green-500",
+      icon: <FaRobot size={22} />,
+      private: false
+    },
+    {
+      title: "Student Attendance Blockchain",
+      description: "A tamper-proof, decentralized student attendance tracking application powered by blockchain technology.",
+      githubLink: "https://github.com/nanda-kshr/student-attendance-blockchain",
+      category: "Education",
+      color: "from-green-500 to-emerald-500",
+      icon: <FaGraduationCap size={22} />,
+      private: false
+    },
+    {
+      title: "Weird Idea Generator",
+      description: "A fun web utility designed to generate absurd, creative, and extremely weird project ideas for developers seeking inspiration.",
+      githubLink: "https://github.com/nanda-kshr/weird-idea-generator",
+      category: "Tools",
+      color: "from-emerald-400 to-green-600",
+      icon: <FaCode size={22} />,
+      private: false
+    },
+    {
+      title: "Gemini API Bridge",
+      description: "A clean middleware and bridge interface to simplify requests and integrate Gemini API models in backend apps.",
+      githubLink: "https://github.com/nanda-kshr/Gemini-API-Bridge",
+      category: "Tools",
+      color: "from-green-400 to-teal-500",
+      icon: <FaCode size={22} />,
+      private: false
+    },
+    {
+      title: "Evil Quiz AI Extension",
+      description: "An AI-powered browser extension helper that generates quiz explanations and smart answer options dynamically.",
+      githubLink: "https://github.com/nanda-kshr/Evil-Quiz-AI-Extension",
+      category: "Tools",
+      color: "from-green-500 to-emerald-400",
+      icon: <FaRobot size={22} />,
+      private: false
+    },
+    {
+      title: "Plant Pal BE",
+      description: "The backend server and API for Plant Pal, managing IoT sensor data, plant health tracking, and scheduling reminders.",
+      githubLink: "https://github.com/nanda-kshr/Plant-Pal-BE",
+      category: "IoT",
+      color: "from-emerald-500 to-green-500",
+      icon: <FaServer size={22} />,
+      private: false
+    },
+    {
+      title: "ECG APP Backend",
+      description: "Real-time Electrocardiogram (ECG) data analysis, visualization, and monitoring backend application.",
+      githubLink: "https://github.com/nanda-kshr/ECG-APP-Backend",
+      category: "AI/ML",
+      color: "from-green-400 to-emerald-500",
+      icon: <FaServer size={22} />,
+      private: false
     }
   ];
 
