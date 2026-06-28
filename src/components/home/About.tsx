@@ -169,10 +169,10 @@ export default function About({ aboutRef, aboutInView }: AboutProps) {
 
                   
 
-                  <motion.div variants={itemVariants} className="flex justify-center mt-8">
+                  <motion.div variants={itemVariants} className="flex flex-col sm:flex-row justify-center items-center gap-4 mt-8">
                     <motion.button
                       onClick={() => router.push('/projects')}
-                      className="relative group px-8 py-3 rounded-md bg-transparent text-white font-medium overflow-hidden"
+                      className="relative group px-8 py-3 rounded-md bg-transparent text-white font-medium overflow-hidden w-full sm:w-auto"
                       whileHover={{ scale: 1.02 }}
                       whileTap={{ scale: 0.98 }}
                     >
@@ -183,7 +183,7 @@ export default function About({ aboutRef, aboutInView }: AboutProps) {
                       <span className="absolute inset-0 bg-gradient-to-r from-[#90EE9000] via-[#90EE9020] to-[#90EE9000] opacity-0 group-hover:opacity-100 transform group-hover:translate-x-full transition-all duration-1000 ease-out rounded-md"></span>
                       
                       {/* Button text */}
-                      <span className="relative z-10 flex items-center gap-2">
+                      <span className="relative z-10 flex items-center justify-center gap-2">
                         View My Projects
                         <svg className="w-4 h-4 transform group-hover:translate-x-1 transition-transform duration-200" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                           <path d="M3.33337 8H12.6667" stroke="#90EE90" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
@@ -191,6 +191,19 @@ export default function About({ aboutRef, aboutInView }: AboutProps) {
                         </svg>
                       </span>
                     </motion.button>
+
+                    <a
+                      href="/resume.pdf"
+                      download="Nandakishore_Resume.pdf"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="relative group px-8 py-3 rounded-md border border-[#90EE9060] bg-[#90EE90]/10 text-[#90EE90] font-medium hover:bg-[#90EE90]/20 transition-all duration-300 w-full sm:w-auto text-center flex items-center justify-center gap-2"
+                    >
+                      Download Resume
+                      <svg className="w-4 h-4 transform group-hover:translate-y-0.5 transition-transform duration-200" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 15V3M12 15L8 11M12 15L16 11M5 17H19C20.1046 17 21 17.8954 21 19V20C21 20.5523 20.5523 21 20 21H4C3.44772 21 3 20.5523 3 20V19C3 17.8954 3.89543 17 5 17Z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                      </svg>
+                    </a>
                   </motion.div>
                 </motion.div>
               </div>

@@ -71,7 +71,7 @@ const Projects = ({ projectsRef, projectsInView = true }: ProjectsProps) => {
     {
       title: "CidPhish Framework",
       description: "An educational framework for creating phishing pages and monitoring credentials through a dashboard. Includes various templates for platforms like Gmail, Facebook, and Instagram. Designed for security research and educational purposes.",
-      demoLink: "http://cidphish.site",
+      demoLink: "https://cidphish-standalone-app.vercel.app/",
       category: "Security",
       featured: true,
       color: "from-emerald-500 to-green-500",
@@ -89,9 +89,9 @@ const Projects = ({ projectsRef, projectsInView = true }: ProjectsProps) => {
       private: false
     },
     {
-      title: "FoodSpot",
+      title: "Dine & Bites",
       description: "A comprehensive food platform that aggregates restaurant menus and ordering systems. From KOTs and table QR codes to a full-featured food delivery interface, it provides a complete solution for the food service industry.",
-      demoLink: "https://www.foodspot.site",
+      demoLink: "https://dineandbites.com/",
       category: "E-commerce",
       color: "from-green-400 to-emerald-500",
       icon: <FaShoppingCart size={22} />,
@@ -128,16 +128,15 @@ const Projects = ({ projectsRef, projectsInView = true }: ProjectsProps) => {
     {
       title: "SR Media",
       description: "A freelance website project showcasing professional web development skills and client work.",
-      demoLink: "http://srmedia.org.in",
       category: "Web Development",
       color: "from-green-400 to-emerald-400",
       icon: <FaCode size={22} />,
-      private: false
+      private: true
     },
     {
       title: "Site Deals",
       description: "A full-stack e-commerce platform similar to Amazon, featuring product listings, user authentication, shopping cart functionality, and secure payment processing.",
-      demoLink: "http://sitedeals.store",
+      demoLink: "https://site-deals-vercel.vercel.app/",
       githubLink: "https://github.com/nanda-kshr/site-deals",
       category: "E-commerce",
       color: "from-green-400 to-emerald-600",
@@ -712,4 +711,6 @@ const Projects = ({ projectsRef, projectsInView = true }: ProjectsProps) => {
   );
 };
 
-export default Projects;
+export default function ProjectsPage() {
+  return <Projects />;
+}

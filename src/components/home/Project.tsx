@@ -68,7 +68,7 @@ export default function Project({ projectsRef, projectsInView }: ProjectProps) {
       tech: ["HTML/CSS", "JavaScript", "PHP", "Docker", "Nginx"],
       color: "from-green-400 to-lime-500",
       icon: <FaShieldAlt size={22} />,
-      live: "http://cidphish.site",
+      live: "https://cidphish-standalone-app.vercel.app/",
       private: true,
       image: "/projects/cidphish.webp"
     },
@@ -313,12 +313,15 @@ export default function Project({ projectsRef, projectsInView }: ProjectProps) {
                     
                     {/* Project URL - Always visible but highlighted on hover */}
                     {project.live && (
-                      <div 
-                        className="mt-4 sm:mt-6 flex items-center gap-2 text-xs sm:text-sm text-gray-400 group-hover:text-green-300 transition-colors"
+                      <a 
+                        href={project.live}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="mt-4 sm:mt-6 inline-flex items-center gap-2 text-xs sm:text-sm text-gray-400 hover:text-green-300 transition-colors z-20 relative pointer-events-auto cursor-pointer"
                       >
                         <FaExternalLinkAlt size={12} />
                         <span className="overflow-hidden text-ellipsis truncate">{project.live}</span>
-                      </div>
+                      </a>
                     )}
                   </div>
                   

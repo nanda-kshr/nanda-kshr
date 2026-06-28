@@ -182,8 +182,9 @@ export default function Contact({ contactRef, contactInView }: ContactProps) {
                                 
                                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4">
                                     {/* Email Option */}
-                                    <div 
-                                        className="bg-gradient-to-br from-green-500/10 to-emerald-500/10 p-3 sm:p-5 rounded-lg border border-green-500/20 hover:border-green-500/50 transition-all group"
+                                    <a 
+                                        href="mailto:nandakishorep212@gmail.com"
+                                        className="bg-gradient-to-br from-green-500/10 to-emerald-500/10 p-3 sm:p-5 rounded-lg border border-green-500/20 hover:border-green-500/50 transition-all group block text-center cursor-pointer"
                                     >
                                         <div className="flex flex-col items-center">
                                             <div className="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center rounded-full bg-green-500/20 mb-2 sm:mb-3 group-hover:bg-green-500/30 transition-colors">
@@ -195,11 +196,14 @@ export default function Contact({ contactRef, contactInView }: ContactProps) {
                                                 nandakishorep212@gmail.com
                                             </div>
                                         </div>
-                                    </div>
+                                    </a>
                                     
                                     {/* GitHub Option */}
-                                    <div 
-                                        className="bg-gradient-to-br from-green-500/10 to-emerald-500/10 p-3 sm:p-5 rounded-lg border border-green-500/20 hover:border-green-500/50 transition-all group"
+                                    <a 
+                                        href="https://github.com/nanda-kshr"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="bg-gradient-to-br from-green-500/10 to-emerald-500/10 p-3 sm:p-5 rounded-lg border border-green-500/20 hover:border-green-500/50 transition-all group block text-center cursor-pointer"
                                     >
                                         <div className="flex flex-col items-center">
                                             <div className="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center rounded-full bg-green-500/20 mb-2 sm:mb-3 group-hover:bg-green-500/30 transition-colors">
@@ -211,11 +215,14 @@ export default function Contact({ contactRef, contactInView }: ContactProps) {
                                                 github.com/nanda-kshr
                                             </div>
                                         </div>
-                                    </div>
+                                    </a>
                                     
                                     {/* LinkedIn Option */}
-                                    <div 
-                                        className="bg-gradient-to-br from-green-500/10 to-emerald-500/10 p-3 sm:p-5 rounded-lg border border-green-500/20 hover:border-green-500/50 transition-all group sm:col-span-2 lg:col-span-1 sm:max-w-xs sm:mx-auto lg:max-w-none"
+                                    <a 
+                                        href="https://www.linkedin.com/in/nandakishore-p-44a743151/"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="bg-gradient-to-br from-green-500/10 to-emerald-500/10 p-3 sm:p-5 rounded-lg border border-green-500/20 hover:border-green-500/50 transition-all group block text-center cursor-pointer sm:col-span-2 lg:col-span-1 sm:max-w-xs sm:mx-auto lg:max-w-none"
                                     >
                                         <div className="flex flex-col items-center">
                                             <div className="w-10 h-10 sm:w-12 sm:h-12 flex items-center justify-center rounded-full bg-green-500/20 mb-2 sm:mb-3 group-hover:bg-green-500/30 transition-colors">
@@ -227,7 +234,7 @@ export default function Contact({ contactRef, contactInView }: ContactProps) {
                                                 linkedin.com/in/nandakishorep212
                                             </div>
                                         </div>
-                                    </div>
+                                    </a>
                                 </div>
                             </motion.div>
 
